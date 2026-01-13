@@ -1,29 +1,43 @@
 ======Hanter dro======
 
-De **hanter dro** is een Bretonse dans uit de //Pays Vannetais// en is nog rustiger en meditatiever dan de [[an-dro|an dro]].
+De **hanter dro** is een Bretonse dans uit de //pays Vannetais// en is nog rustiger en meditatiever dan de [[an-dro|an dro]].
 
 ===== Basis =====
 
 ==== Opstelling ====
 
-In 1 of meerdere lange slierten. Mannetje/vrouwtje maakt niet uit
+Dansers stellen zich op in één of meer langere rij (of eventueel cirkels). De danser links 'haakt in' met de rechterelleboog over de linkerelleboog van de danser aan de rechterkant, en de linkerelleboog onder de rechterelleboog van de danser links. Handen tegen elkaar aan. De correcte danshouding in de hanter dro is dicht tegen elkaar aan, zodat een rij goed als een geheel kan bewegen, en de dansers het ritme van de mededansers aanvoelen.
+
+Als je bij een rij dansers wilt aansluiten, sluit dan aan aan de rechterkant, dus aan het einde.
 
 ==== Basisstappen ====
 
-  * volg-de-leider. sta dicht bij elkaar houdt elkaar vast bij de handen, met de rechterelleboog over de linker van je buur
-  * Patroon van vier + twee tellen
-  * 3 stappen naar links (begin met links) - rust \| 1 stap op de plaats (of licht naar links) met rechts - rust \| weer beginnen met links
+  * Tel 1: zet de linkervoet een stap naar links
+  * Tel 2: sluit de rechtervoet dicht tegen de linkervoet aan
+  * Tel 3: zet de linkervoet nog een stap naar links
+  * Tel 4: bounce
+  * Tel 5: sluit de rechtervoet aan
+  * Tel 6: bounce
+
+(Alternatief kan er ook tot 3 geteld worden in plaats van tot 6, dus met stappen op 1-en-2-3 in plaats van 1-2-3-5. Muzikaal kan de hanter dro genoteerd worden als bijv. 3/4, 6/8, 6/4, of 2/4 + 1/4.)
 
 ===== Aanwijzingen =====
 
-  * zie An Dro, behalve het handgebruik.
+  * Zie [[an-dro|an dro]], behalve het handgebruik.
+  * Houd de stappen klein!
+  * Vergeet de bounce niet, die de dans echt fijn maakt.
 
 ===== Variaties =====
 
-  * zie An Dro
-  * De Hanter Dro en An Dro kunnen ook om en om gedaan worden (na 4x bijvoorbeeld). Je houdt elkaar bij het Hanter Dro gedeelte dan bij de pinken vast, maar hebt wel de ellebogen over elkaar. (wees voorzichtig bij het wisselen, ga niet te ver uit elkaar bij de An Dro). De muziek geeft dan aan welk deel wanneer gedaan wordt. Zo'n afwisseling wordt tricot genoemd.
-  * een steeds dikker op elkaar gepakte rol met de leider (of een muzikant) in het midden, die alleen nog maar rondjes op de plaats maakt. (erg warm en gezellig)
+  * Zie an dro
+  * Een steeds dikker op elkaar gepakte rol met de leider (of een muzikant) in het midden, die alleen nog maar rondjes op de plaats maakt (erg warm en gezellig).
+  * De hanter dro en an dro kunnen ook om en om gedaan worden (na 4x bijvoorbeeld). De zo ontstane dans heet de [[tricot|tricot]], zie die pagina voor verdere details.
+  * Een veelvoorkomende versiering is om de rechtervoet op tel 5 een heel klein beetje naar achteren (misschien 3 cm) te zetten in plaats van recht naast de linkervoet.
 
 ===== Videovoorbeelden =====
 
+  * Dansuitleg door Thierry Girod {{youtube>AUOiZZ2psww?}}
+
 ===== Externe Referenties =====
+
+  * Pagina over de hanter dro op Folk Dance Musings: https://folkdancemusings.blogspot.com/2014/03/hanter-dro-brittany-france.html

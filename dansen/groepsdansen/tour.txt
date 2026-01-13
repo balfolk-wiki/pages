@@ -1,17 +1,51 @@
 ======Tour======
 
-Deze pagina moet nog gemaakt worden.
+De **tour** is een Bretonse reidans uit de //pays vannetais// en verwant aan de [[an-dro|an dro]].
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+De dansers staan in een cirkel met de pinkjes aan elkaar vast zoals bij de an dro.
+
 ==== Basisstappen ====
 
+=== Voeten ===
+
+De stappen met de voeten zijn:
+
+== Maat 1 ==
+
+  * Tel 1: linkervoet naar links
+  * ...en...: sluit de rechtervoet aan vlak bij de linkervoet
+  * Tel 2: linkervoet op de plaats (of een klein beetje verder naar links)
+  * ...en...: (lichte) bounce
+
+== Maat 2 ==
+
+  * Tel 1: rechervoet kruiselings voorlangs de linkervoet
+  * ...en...: beweeg de linkervoet een klein beetje naar links
+  * Tel 2: rechtervoet op de plaats (of een klein beetje verder naar links
+  * ...en...: (lichte) bounce
+
+=== Armen ===
+
+== Maat 1 ==
+
+Houd de ellebogen gebogen en de handen ongeveer op schouderhoogte, en geef op tel 1 en 2 een lichte puls naar beneden.
+
+== Maat 2 ==
+
+Houd de ellebogen iets meer (maar niet helemaal) gestrekt en de handen iets verder naar voren, en geef ook hier op tel 1 en 2 een lichte puls naar beneden.
+
 ===== Aanwijzingen =====
+
+  * In de Nederlandse Balfolk worden maat 1 en 2 vaak omgekeerd. Dit is eigenlijk niet de tour, maar het A-deel van de [[pach-pi|pach pi]].
 
 ===== Variaties =====
 
 ===== Videovoorbeelden =====
+
+  * Gezongen tour door Duo Robin Kerno {{youtube>a3O2U1LX41w?}}
 
 ===== Externe Referenties =====

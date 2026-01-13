@@ -1,23 +1,88 @@
 ====== Welkom op de Balfolk-Wiki ======
+//Een levende kennisbank voor balfolkdansen, muziek en lespraktijk//
 
-Deze wiki verzamelt informatie over balfolkdansen: dansbeschrijvingen, variaties en praktische tips voor dansers, instructeurs en muzikanten.  
-De teksten zijn bedoeld als aanvulling en geheugensteun; basiskennis van balfolk is aan te raden om ze goed te kunnen volgen.
+<alert type="info">
+De Balfolk-Wiki verzamelt dansbeschrijvingen, variaties en praktische tips voor  
+**dansers, docenten en muzikanten**.  
+De teksten zijn bedoeld als geheugensteun; enige basiskennis van balfolk is aanbevolen.
+</alert>
 
-Een overzicht van locaties waar balfolklessen worden gegeven vind je op [[https://www.balfolk.nl/informatie/lessen/|balfolk.nl]].
+<row>
 
-De Balfolk-Wiki is een gezamenlijk project. Iedereen kan bijdragen door bestaande informatie te verbeteren of nieuwe inhoud toe te voegen. Hiervoor kun je een account aanmaken.
+<col md="4">
+<panel title="💃 Dansen" type="info">
+• Pasbeschrijvingen
 
-De inhoud is grotendeels afkomstig uit de oorspronkelijke DansWiki, die eerst werd onderhouden door de Gonnagles en later door Balfolk Enschede. Omdat de oorspronkelijke servers niet meer beschikbaar zijn, is het materiaal hier voortgezet en samengebracht.
+• Variaties
 
-De wiki is altijd in ontwikkeling, Suggesties voor aanvullingen of verbeteringen zijn daarom altijd welkom.
+• Structuren
 
-----
+• Regionale stijlen
+</panel>
+</col>
 
-==== Waarvoor dient de Balfolk-Wiki? ====
+<col md="4">
+<panel title="🎻 Muziek" type="info">
+• Maatsoorten  
 
-De Balfolk-Wiki biedt een centrale plek waar dansinformatie wordt gedeeld tussen dansers, muzikanten, docenten en danshistorici.
+• Ritmes  
 
-Of je nu een dans beter wilt begrijpen of wilt bijdragen aan het vastleggen van kennis: hier ben je op de juiste plek.
+• Tempo & frasering  
 
-De wiki ondersteunt het leerproces, maar vervangt geen lessen of workshops.  
-Balfolk leer je immers samen.
+• Dans–muziekrelaties
+</panel>
+</col>
+
+<col md="4">
+<panel title="📚 Didactiek" type="info">
+• Lesmethodes  
+
+• Workshopopbouw  
+
+• Didactische tips  
+
+• [[algemeen:terminologie|Terminologie]]
+</panel>
+</col>
+
+</row>
+
+<row>
+
+<col md="6">
+<panel title="📍 Lessen vinden" type="success">
+<button type="warning">[[https://www.balfolk.nl/informatie/lessen/|Bekijk balfolklessen]]</button>
+</panel>
+</col>
+
+<col md="6">
+<panel title="💬 Praat mee" type="success">
+<button type="info">[[https://discord.gg/qv5U5dC9hf|Balfolk NL Discord]]</button>
+</panel>
+</col>
+
+</row>
+
+<alert type="success">
+**De Balfolk-Wiki is een gezamenlijk project.**  
+Iedereen kan bijdragen door pagina’s te verbeteren of nieuwe inhoud toe te voegen.
+</alert>
+
+<panel title="🕰️ Herkomst" type="default">
+De meeste inhoud komt uit de oorspronkelijke **DansWiki**  
+Eerst onderhouden door de **Gonnagles**  
+Later door **Balfolk Enschede**  
+Na het verdwijnen van de oude servers is het hier opnieuw samengebracht
+</panel>
+
+<alert type="info">
+Deze wiki blijft groeien. Suggesties en verbeteringen zijn altijd welkom.
+</alert>
+
+<row>
+<col md="12">
+<panel title="🌱 Samen leren" type="info">
+**Balfolk leer je samen**
+</panel>
+</col>
+</row>

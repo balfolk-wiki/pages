@@ -1,17 +1,41 @@
 ====== Rondeau en couple ======
 
-Parendans twee aan twee in een grote cirkel
+De **rondeau en couple** is een parendans twee aan twee in een grote cirkel.
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+Paren stellen zich op naast elkaar, met hun gezicht met de klok mee, in een cirkel, met leiders links en volgers rechts, en de handen van de volgers in de handen van de leiders.
+
 ==== Basisstappen ====
+
+  * Tel 1: Zet de linkervoet vooruit, waarbij een redelijke afstand gemaakt wordt.
+  * Tel 2: Bounce
+  * Tel 3: Zet de rechtervoet iets verder naar voren in vergelijking met de linkervoet.
+  * -en-: Maak een pas met de linkervoet, ongeveer op de plaats.
+  * Tel 4: Maak een pas met de rechtervoet ongeveer op de plaats.
+
+  * Tel 5: Zet de linkervoet een klein beetje naar achteren.
+  * Tel 6: Bounce
+  * Tel 7: Zet de rechtervoet een klein beetje naar achteren.
+  * -en-: Maak een pas met de linkervoet, ongeveer op de plaats.
+  * Tel 8: Maak een pas met de rechtervoet, een klein beetje naar voren.
 
 ===== Aanwijzingen =====
 
+  * Het is belangrijk te onthouden dat de stappen naar voren //groter// moeten zijn dan de stappen naar achteren. Als je dit vergeet, loop je het risico op de tenen van de danser achter je te staan!
+
 ===== Variaties =====
+
+  * Het is mogelijk (maar niet noodzakelijk) om met de handen het ritme van de dans te accentueren: op tel 1, 3, 5, 7 de handen omhoog, en op tel 2, 4, 6, 8 de handen weer laten zakken.
+  * De leider kan een eenvoudige draai inzetten door op tel 2 de hand omhoog te bewegen, zodat de volger wordt uitgenodigd om, met de klok mee, een draai te maken.
+  * Er is ook een complexere draai, die o.a. wel eens de //Dani-draai// of de //elegante draai// genoemd is door diverse docenten in Nederland. Om deze draai, als leider, in te zetten, zorg je dat je op tel 2 met je eigen linkerhand (achter je rug) de linkerhand van je volger overneemt. Vervolgens kan de leider zelf, tegen de klok in, een draai maken, waarbij de volger, ook tegen de klok in, ook een draai in de rondte maakt. Zie het filmpje hieronder voor een mooi voorbeeld van deze draai.
 
 ===== Videovoorbeelden =====
 
+  * Uitleg op CaDansa 2016 van de 'Dani-draai' door Dani Detammaecker {{youtube>mVhtKWSECWU?}}
+
 ===== Externe Referenties =====
+
+  * [[https://folkdancemusings.blogspot.com/2022/07/rondeau-en-couple-de-gascogne-france.html|Beschrijving van de rondeau en couple op Folk Dance Musings]]

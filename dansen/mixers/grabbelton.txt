@@ -1,6 +1,6 @@
 ======Grabbelton======
 
-Een vrolijke mixer met een puinhoopelement op het einde.
+De **grabbelton** is een vrolijke mixer met een puinhoopelement op het einde.
 
 ===== Basis =====
 
@@ -10,11 +10,26 @@ Een grote cirkel met paren van leider en volger.
 
 ==== Basisstappen ====
 
+De dans bestaat uit 6 delen:
+
+  * Deel 1 (8 tellen): leiders en volgers houden elkaar bij de rechterhand vast en draaien met de klok mee, 1 stap per tel.
+  * Deel 2 (8 tellen): leiders en volgers houden elkaar bij de linkerhand vast en draaien tegen de klok in, 1 stap per tel.
+  * Deel 3 (8 tellen): leiders en volgers houden elkaar met beide handen vast en draaien met de klok mee, 1 stap per tel.
+  * Deel 4 (8 tellen): //do-si-do//: leiders en volgers bewegen, met de klok mee, om elkaar heen zonder zelf van richting te veranderen.
+  * Deel 5 (16 tellen): //spinnen//: de standaardhouding hier is een van de varianten van de [[cercle-circassien-tovercirkel|clkercle circassien]]: leiders en volgers houden hun rechterhand op de rechterschouder van hun partner, en daaronder hun linkerhand vast.
+  * Deel 6 (16 tellen): leiders lopen in de binnencirkel met de klok mee, volgers lopen in de buitencirkel tegen de klok in, op zoek naar een nieuwe danspartner.
+
 ===== Aanwijzingen =====
 
+  * Het puinhoopelement bestaat eruit dat er geen vast patroon is welke partner je volgende partner wordt op het einde. Als je nog voor de laatste 16 tellen een leuke nieuwe partner vindt, is dat evengoed toegestaan (mits die partner dat wil, natuurlijk).
+  * Als je na de 16 tellen nog geen nieuwe partner hebt gevonden, beweeg je je naar het midden van de cirkel, waar als het goed is ook een partner te vinden is die ook niemand kon vinden!
+
 ===== Variaties =====
+
+  * De variaties in het spinnen bij de cercle circassien zijn hier in principe ook allemaal mogelijk.
 
 ===== Videovoorbeelden =====
 
   * Grabbelton van Kelten zonder Grenzen {{youtube>cRK5oagDyxs?}}
+
 ===== Externe Referenties =====

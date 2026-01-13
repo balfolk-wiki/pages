@@ -1,6 +1,9 @@
-======Cercle Circassien à Tiroirs======
+====== Dans-template ======
 
-Deze pagina moet nog gemaakt worden.
+Begin voor een nieuwe pagina voor een dans met dit template:
+
+<code>
+====== Naam van dans ======
 
 ===== Basis =====
 
@@ -15,3 +18,4 @@ Deze pagina moet nog gemaakt worden.
 ===== Videovoorbeelden =====
 
 ===== Externe Referenties =====
+</code>

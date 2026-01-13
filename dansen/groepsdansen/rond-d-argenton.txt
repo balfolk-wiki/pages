@@ -1,17 +1,42 @@
-======Rond d'Argenton======
+====== Rond d’Argenton ======
 
-Deze pagina moet nog gemaakt worden.
+De **rond d’Argenton** is een knusse en fijne dans uit Argenton-sur-Creuse in de regio Berry. De dans heeft een 'standaardvorm' qua aantal herhalingen van het A- en het B-deel maar vaak wordt daar van muzikanten van afgeweken. Omdat het B-deel muzikaal aangekondigd wordt, is muzikaliteit dus een goede meerwaarde bij deze dans.
+
+Deze dans is gereconstrueerd, na een tijd lang niet gedanst te zijn. In hoeverre de hieronder beschreven dansvorm 'authentiek' is, blijft dus eeuwig betwistbaar.
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+De dansers staan in een kring, ideaal gezien van ca. 8-12 dansers per kring, en houden elkaars hand vast.
+
 ==== Basisstappen ====
+
+In de meest standaard vorm is het patroon in de muziek **AABCC** en in de dans **AAABB**. Het muzikale tweede deel dient dus als aankondiging om (niet direct, maar de volgende reeks van 8 tellen) het andere deel te dansen. Muzikanten kunnen hier van afwijken door een ander aantal keren het muzikale A-deel te spelen. Let dus goed op de muziek!
+
+=== A-deel ===
+
+  * Tel 1: Zet de rechervoet kruiselings voor de linkervoet.
+  * Tel 2: Zet een stap met de linkervoet, iets naar links op de cirkel.
+  * Tel 3: Zet de rechtervoet kruiselings achter de linkervoet.
+  * Tel 4: Zet een stap met de linkervoet, iets naar links op de cirkel.
+  * Tel 5 t/m 8: Herhaal tel 1 t/m 4.
+
+Eventueel kun je hierbij op de tellen 1, 3, 5 en 7 de armen iets omhoog doen, en op tellen 2, 4, 6 en 8 de armen weer laten zakken.
+
+=== B-deel ===
+
+  * De dansers lopen in tel 1 t/m 4 naar elkaar toe, zetten 1 pas per tel. (Welke voet eerst maakt niet zo veel uit, maar beginnen met rechts is het makkelijkst.) Hierbij bewegen ze de handen naar elkaar toe en iets omhoog.
+  * De dansers lopen in tel 5 t/m 8 achteruit van elkaar, weer 1 pas per tel. De handen worden weer terug naar beneden bewogen.
 
 ===== Aanwijzingen =====
 
 ===== Variaties =====
 
+  * Er zijn diverse varianten van de dans in omloop: beginnen met de rechtervoet achterlangs, beginnen met de linkervoet gevolgd door de rechtervoet voorlangs, en beginnen met de linkervoet gevolgd door de rechtervoet achterlangs. De hier beschreven versie lijkt het meest standaard.
+
 ===== Videovoorbeelden =====
+
+  * Voorbeeld van cancoillottefolk op Youtube: {{youtube>XDh6H74MEMw?}}
 
 ===== Externe Referenties =====

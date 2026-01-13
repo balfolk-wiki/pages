@@ -1,7 +1,106 @@
 ======Dansen======
 
+De pagina's in deze categorie bevatten korte beschrijvingen van traditionele dansen die in het Balfolk- en regionaal repertorium voorkomen. Voor elk opgenomen dansstuk staat een korte inleiding met herkomst, ritme, formatie en basisstappen. Hieronder volgt een overzicht met omschrijving van de belangrijkste categorieën dansen met directe links naar enkele van de meestvoorkomende dansen.
 
-Dit gedeelte bevat korte beschrijvingen van traditionele dansen die in het Balfolk- en regionaal repertorium voorkomen. Voor elk opgenomen dansstuk staat een korte inleiding met herkomst, ritme, formatie en basisstappen.
+<row>
+<col md="6">
+<panel title="Koppeldansen" type="info">
+Veel dansen in de Balfolk zijn [[koppeldansen|koppeldansen]] die je met z'n tweeën danst in standaard danshouding, zoals de:
+
+  * [[.:koppeldansen:scottish|Scottish]]
+  * [[.:koppeldansen:mazurka|Mazurka]]
+  * [[.:koppeldansen:wals|Wals]]
+  * [[.:koppeldansen:polka|Polka]]
+
+Sommige dansen worden gedanst met een koppel in de groep, zoals:
+
+  * [[.:koppeldansen:rondeau-en-couple|Rondeau en couple]]
+</panel>
+</col>
+
+<col md="6">
+<panel title="Groepsdansen" type="info">
+Verder zijn er veel [[groepsdansen|groepsdansen]] in rij of cirkel, zoals...
+
+...uit Bretagne, de...
+
+  * [[.:groepsdansen:an-dro|An dro]]
+  * [[.:groepsdansen:hanter-dro|Hanter dro]]
+
+...uit de Gascogne, de...
+
+  * [[.:groepsdansen:rondeau-en-chaine|Rondeau en chaîne]]
+
+...uit de Poitou, de...
+
+  * [[.:groepsdansen:maraichine|Maraîchine]]
+</panel>
+</col>
+</row>
+
+<row>
+<col md="6">
+<panel title="Mixers" type="info">
+[[mixers|Mixers]] zijn dansen waarbij je met een partner instapt, maar tijdens de dans steeds van partner wisselt, zoals de:
+
+  * [[.:mixers:chapelloise-jig-gigue|Chapelloise]] (of jig, of gigue)
+  * [[.:mixers:cercle-circassien-tovercirkel|Cercle Circassien]] (of tovercirkel)
+</panel>
+</col>
+
+<col md="6">
+<panel title="Bourrées" type="info">
+[[bourrees|Bourrées]] zijn een groep aardse dansen uit Midden- en Zuid-Frankrijk die je meestal met partner danst maar zonder direct fysiek contact, zoals de:
+
+  * [[.:bourrees:bourree-du-berry|Bourrée du Berry]] (de standaard bourrée in 2)
+  * [[.:bourrees:bourree-d-auvergne|Bourrée d’Auvergne]] (de standaard bourrée in 3)
+  * [[.:bourrees:bourree-du-berry:bourree-en-cercle|Bourrée en Cercle]]
+</panel>
+</col>
+</row>
+
+<row>
+<col md="6">
+<panel title="Gavottes" type="info">
+[[gavottes|Gavottes]] zijn een categorie groepsdansen uit Bretagne. Enkele gavottes die vaak tegenkomt in de Balfolk zijn de:
+
+  * [[.:gavottes:gavotte-de-l-aven-caresse|Gavotte de l'Aven caresse]] (of Gavotte de Grenoble)
+  * [[.:gavottes:kost-ar-c-hoad|Kost ar c'hoad]]
+</panel>
+</col>
+
+<col md="6">
+<panel title="Dansen met 3 of 4" type="info">
+Ook zijn er dansen die je met [[dansen-met-3-of-4|Dansen met 3 of 4]] dansers danst. Bij deze dansen heb je vaak een partner en een tegenpartner. Enkele voorbeelden met 4 dansers:
+
+  * [[.:dansen-met-3-of-4:avant-deux:avant-deux-a-4-figures|Avant-deux]] (link naar de //4 figures// basisvorm)
+  * [[.:dansen-met-3-of-4:congo-de-captieux|Congo de Captieux]]
+
+Er is eigenlijk maar één veelvoorkomende dans die met drie dansers wordt gedanst:
+
+  * [[.:dansen-met-3-of-4:cochinchine|Cochinchine]]
+</panel>
+</col>
+</row>
+
+<row>
+<col md="6">
+<panel title="Solodansen" type="info">
+In de Balfolk komt een klein aantal [[solodansen|solodansen]] voor met enige regelmaat, namelijk:
+
+  * [[.:solodansen:pas-d-ete|Pas d'été]]
+  * [[.:solodansen:madison|Madison]]
+</panel>
+</col>
+
+<col md="6">
+<panel title="Sauts" type="info">
+[[sauts|Sauts]] uit Béarn of Baskenland zijn solodansen in groep, die vaak gebruik maken van dezelfde basisingrediënten. De meestvoorkomende saut is:
+
+  * [[.:sauts:set-sauts|Set Sauts]]
+</panel>
+</col>
+</row>
 
 ===== Indeling =====
 

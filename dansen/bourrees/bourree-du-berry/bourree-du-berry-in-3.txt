@@ -1,17 +1,69 @@
 ======Bourrée du Berry in 3======
 
-Deze pagina moet nog gemaakt worden.
+''Herschreven vanuit de danswiki door iemand met weinig ervaring met 3t Berry bourree''
 
+De bourrée du Berry in 3 is een koppeldans zonder fysiek contact afkomstig uit de regio Berry in Frankrijk.
+Anno 2026 komt men deze dans niet vaak op een bal tegen, veel vaker kom je de [[..:bourree-du-berry:|bourrée du Berry in 2]] tegen of de [[..:bourree-d-auvergne|bourrée d’Auvergne]]
 ===== Basis =====
+In de structuur door de ruimte is deze bourree vergelijkbaar met [[..:bourree-du-berry:|haar zusje in 2]]. De muziek is echter in een andere maatsoort, waardoor de passen gelijkmatiger verdeeld zijn.
 
 ==== Opstelling ====
 
 ==== Basisstappen ====
 
+===Passen===
+
+Beginnend met rechts zet je op elke tel een stap.
+
+  * Op tel 1 een grote stap met links naar voren
+  * Op tel 2 aansluiten met rechts
+  * Op tel 3 met links enigszins naar voren
+
+In de tweede maat bereid je voor om weer naar achter te gaan (we tellen door om makkelijker te kunnen verwijzen)
+  * Op tel 4 een stap ('//val//)' met rechts naar voor
+  * Op tel 5 een stap met links waarbij je je gewicht vast naar achteren verplaatst
+  * Op tel 6 een stap met rechts naar achteren
+
+Vervolgens op dezelfde manier achteruit (we tellen nog steeds door)
+  * Op tel 7 een grote stap met links naar achter
+  * Op tel 8 aansluiten met rechts
+  * Op tel 9 met links enigszins naar achter
+
+In de vierde maat
+  * Op tel 10 een stap ('//val//)' met rechts naar achter
+  * Op tel 11 een stap met links waarbij je je gewicht vast naar voren verplaatst
+  * Op tel 12 een stap met rechts naar voor
+
+
+===Structuur===
+
+De dans bestaat uit een A- en een B-deel. Deze zijn in de muziek ook te herkennen met hun eigen melodie. Zowel het A-deel als het B-deel hebben vier herhalingen. In het A deel bewegen dansers naar elkaar toe en weer terug naar hun plaats, in het B-deel steken ze over.
+
+ * **A** (4 maal):
+        * Bourreepas vooruit (''1 2 3 4 5 6'')
+       *  Bourreepas achteruit (''7 8 9 10 11 12'')
+
+* **B (4 maal):**
+       * Bourreepas vooruit, met voorbereiding om over te steken. Dit is een kwartdraai naar links zodat de dansers elkaar kunnen passeren. (''1 2 3 4 5 6'') Aan het eind van dit deel staan de partners tegenover elkaar in het midden van de lijn waarop gedanst wordt.
+      *  Bourreepas **vooruit (!)** op ''7 8 9 10 11 12'' en, waarbij om de rechterschouder wordt gedraaid tot de dansers van plaats zijn gewisseld. Aangezien we voor de herhaling weer naar de overkant moeten is hier wel een voorbereiding om van richting te wisselen. Na vier herhalingen sta je (als het goed is) weer op dezelfde plek als je gestart bent.
+
+
 ===== Aanwijzingen =====
 
+  * //Zen-Zen//: De normale bourreepas gaat eigenlijk niet op de eerste tel naar voren (of naar achter), maar twee tellen eerder. Dit betekent dat je in het A-deel op tel 3 een //val// maakt op het rechterbeen (je lichaam stopt met het bewegen naar voren) en al bij de -en- daarna je gewicht naar achteren verplaatst en dus een klein stapje naar achteren maakt. Hetzelfde geldt aan het eind van de bourreepas naar achteren: een //val// op 7 en een pasje naar voren op de -en- daarna.
+  * De bourree doet eigenlijk geen passen op de plaats: je gaat of naar voren, of naar achteren, en als je naar voren gaat dan zal iedere pas //op de plaats// een klein beetje naar voren zijn. Idem voor achteruit.
+  * Bij het wisselen van plaats is het gebruikelijk om op tel 2 al tegenover elkaar te komen; tel 3, -en- en 4 kunnen stil tegenover elkaar of al richting de overkant gaan.
+  * Blijf als koppel altijd dicht bij elkaar. Dit maakt het makkelijker om bijvoorbeeld elkaar te kruisen, het scheelt ruimte op de vloer en voorkomt ongelukken met andere rijen.
+  * Dans altijd in de breedte van het podium. Vanaf het podium zou je dus het "middenpad" tussen de dansers moeten kunnen zien. Op die manier staat er nooit een danser met zijn/haar rug naar de muzikanten.
 ===== Variaties =====
 
+  * Deel A
+    * In plaats van recht naar elkaar, kunnen ook de linkerschouders naar elkaar gericht worden en een halve boog gemaakt worden zodat de rechterschouders naar elkaar staan, en weer terug naar achteren en met linkerschouders naar elkaar.
+    * In plaats van een halve boog heen en weer terug draaien, kan deze ook worden doorgedraaid.
+    * Er kunnen bij het naar voren of naar achteren gaan extra draaien worden toegevoegd.
+
+  * Deel B
+    * Niet met de schouders naar elkaar staan, maar recht tegenover elkaar beginnen. Dan in de eerste drie tellen een halve draai maken zodat je al van plaats bent gewisseld en elkaar aankijkt. Dan tel 4, 5 en 6 op de plaats blijven en de volgende tellen gebruiken om recht naar achter te gaan (al dan niet met een draai). Deze variatie is logisch te vervolgen op een deel A dat recht naar elkaar wordt gedanst, vaak heeft de muziek een stopje op tel 4, 5 en 6 waardoor deze variatie goed uit de verf komt.
 ===== Videovoorbeelden =====
 
 ===== Externe Referenties =====

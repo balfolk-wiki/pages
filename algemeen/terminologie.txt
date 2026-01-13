@@ -8,9 +8,35 @@ verschillende balfolk dansen.
 
 //Editor note: een groot deel hiervan is in onbruik geraakt, achterhaald of ronduit onbegrijpbaar. Derhalve moet dit volledig worden herzien//
 
+==== Muzikale begrippen ====
+
+=== Off-beat ===
+De tel waar gebruikelijk in de muziek geen nadruk ligt. Bijvoorbeeld bij een 4/4 maat ligt de nadruk gebruikelijk op tel 1, met een lichtere nadruk op tel 3.
+
+Dus: ''__**1**__ 2 **3** 4''
+
+tel ''2'' en ''4'' zijn hier de off beat
+
+Daarnaast kunnen de gebruikelijke kwartnoten opgedeeld worden in kleinere delen. Wanneer je bijvoorbeeld met achtste noten werkt kun je het ritme zo weergeven:
+''
+__**1** __ en 2 en **3** en 4 en''
+
+Waarbij ''en'' de tweede achtste noot van de tel voorstelt (''1'' en ''en'' zijn twee achtste noten, dus samen weer een kwart net als ''1'' in het eerste voorbeeld)
+
+Nadruk (of een pas) op deze "en" is ook een offbeat.
+
+Daarnaast zou je de tellen ook in kleinere delen kunnen opdelen, bijvoorbeeld:
+''__**1** __ en //ne// 2 en //ne// **3** en //ne// 4 en //ne//''
+Dan zijn ook de ''//ne//'' off-beat.
+Dit komt bijvoorbeeld voor als er [[https://en.wikipedia.org/wiki/Tuplet#Triplet|triolen]] worden gespeeld of met [[https://en.wikipedia.org/wiki/Swing_time|swing ritme]]
+
+Zie ook [[https://en.wikipedia.org/wiki/Beat_(music)#On-beat_and_off-beat| Off-beat op Wikipedia]]
+
+
 ===== Standbeen =====
 
-Het been waarop het gewicht rust.
+Het been waarop het gewicht rust. Het andere been is daarmee vrij om te verplaatsen.
+Wanneer een pas gezet wordt, wisselt het standbeen. Dit is anders bij een tap (verzette voet raakt de grond maar er komt geen gewicht op, volgende beweging is met hetzelfde been) of hop (standbeen komt los van de grond en komt weer neer, dezelfde vrije voet is klaar voor de volgende beweging).
 
 ===== Stap =====
 

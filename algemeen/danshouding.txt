@@ -1,10 +1,29 @@
 ======Danshouding======
 
+Een goede danshouding maakt subtiele communicatie met de danspartner mogelijk en voorkomt blessures. Hieronder bespreken we de meest voorkomende houdingen voor koppeldansen. We gebruiken de begrippen //volger// en
+//leider// in de omschrijving. Deze dansrollen staan los van gender, maar gaan over het afspreken wie hoofdzakelijk het initiatief neemt (de Leider) en wie impulsen interpreteert en de continuiteit in de dans bewaakt (de Volger). Zelfs dat kan echter door bijvoorbeeld een variatie
+uit te voeren binnen een dans veranderen.
 
-Een goede danshouding is natuurlijk belangrijk. Er zijn een paar
-verschillende houdingen voor koppeldansen. Voor het gemak wordt //volger// en
-//leider// gebruikt ter aanduiding van de 2 danspartners. Zelfs dat kan echter door bijvoorbeeld een variatie
-uit te voeren binnen een dans veranderen
+====Tension en Connectie ====
+
+Voor een goede gesloten of half-open danshouding dienen leider en volger voldoende verbinding te maken. Connectie wordt, grotendeels gemaakt door bewegingen van het (boven)lichaam, te communiceren via de schouder en armen.
+
+Een rechterarm en schouder van de leider zijn belangrijk, gezien deze lichaamsbewegingen doorgeven aan de rug en arm van de Volger. 
+
+Voor de leider is het daarbij belangrijk om enige spierspanning in de leidende (rechter) arm te hebben zodat dat deze parallel blijft aan de torso. Dat zorgt er ook voor dat de volger voldoende stabiliteit voelt om enige tegendruk te geven in de rechter hand op diens rug.
+
+Leiden gebeurt daarbij vanuit het bovenlichaam, waarbij de leidende arm vanzelf, parallel, volgt.
+
+Hierbij geeft de volger enige tegendruk door diens rug iets in de hand van de leider te laten drukken.
+
+Zo vorm je samen één geheel met een gedeeld zwaartepunt. Dit vraagt durf van de Volger en stabiliteit en vertrouwen van de Leider: een subtiele balans tussen tegendruk en ontspanning. Als één van de 2 de druk laat varen, moet de ander compenseren maar valt niet spontaan achterover.
+
+Het is hierbij belangrijk op te merken, dat het lichaam, zowel bij leiden als volgen enigzins recht blijft staan: niet hol, niet achterover gebogen en zonder de heupen naar achter te duwen.
+
+Zie oa:
+  * https://doi.org/10.1080/14647893.2012.688943
+
+=====Danshoudingen=====
 
 ==== Half-open ====
 
@@ -46,6 +65,8 @@ Leider haar arm naar achteren drukt.
 Beide partners dragen zelf hun eigen armen en laten die niet op de arm
 van de ander hangen.
 
+
+
 ==== Gesloten ====
 
 Gesloten houding, waarbij beide armen van de Leider op de rug van de Volger
@@ -57,12 +78,6 @@ Leider.
 Open houding, hier moet nog een omschrijving voor komen.
 
 ===== Aanwijzingen =====
-
-  * Voor een goede koppeldans leunt de Volger licht met het bovenlichaam in de rechterarm van de Leider. Zo vorm je samen één geheel met een gedeeld zwaartepunt. Dit vraagt durf van de Volger en stabiliteit en vertrouwen van de Leider: een subtiele balans tussen tegendruk en ontspanning.
-
-  * De Volger leunt recht als een plank in de arm van de Leider: niet hol, niet achterover gebogen en zonder de heupen naar achter te duwen.
-
-  * In balfolk is er vaak meer afstand tussen de heupen dan in sommige andere dansvormen, waardoor leiden via de heupen minder werkt. Daarom is een solide rechterarm van de Leider belangrijk, die lichaamsbewegingen doorgeeft aan de rug en arm van de Volger. Leiden gebeurt vanuit het bovenlichaam, met lichte spanning in de armen.
 
   * Bij bewegingen richting de vloer, zoals een Cercle, bevindt de hand van de Leider zich onder die van de Volger.
 

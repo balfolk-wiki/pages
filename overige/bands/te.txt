@@ -26,11 +26,11 @@ Té heeft dusver één cd uitgebracht in mei 2012 getiteld //Flamingo's Gambit//
 | Flamingo's Gambit |                                |          |                                                                                    |
 | ----------------- | ------------------------------ | -------- | ---------------------------------------------------------------------------------- |
 | **#**             | Naam                           | **Duur** | **Dans**                                                                           |
-| 1                 | Madhatter & Cooooooooooo       | 4:24     | [[dansen:mixers:cercle-tovercirkel:cercle-circassien-in-6|Cercle Circassien in 6]] |
+| 1                 | Madhatter & Cooooooooooo       | 4:24     | [[dansen:mixers:cercle-circassien-tovercirkel:cercle-circassien-in-6|Cercle Circassien in 6]] |
 | 2                 | Bour wat zeg je van mijn Reeën | 3:48     | [[dansen:bourrees:bourree-du-berry|Bourrée du Berry]]                              |
 | 3                 | Lullaby for a Cheshire Cat     | 5:36     | [[dansen:koppeldansen:wals:wals-in-5|Wals in 5]]                                   |
 | 4                 | De worp                        | 4:18     | [[dansen:koppeldansen:scottish|Scottish]]                                          |
-| 5                 | Quantos Costa?                 | 4:07     | [[dansen:gavottes:kost-ar-c-hoat|Kost Ar C'hoat]]                      |
+| 5                 | Quantos Costa?                 | 4:07     | [[dansen:gavottes:kost-ar-c-hoad|Kost Ar C'hoat]]                      |
 | 6                 | aldus sprak toen de goudvis    | 5:30     | [[dansen:koppeldansen:wals:wals-in-8-11-enz|Wals in 8]]                                   |
 | 7                 | Luistervink                    | 3:50     | [[dansen:koppeldansen:polska:polska-springlek|Springlek]] (Bingsjö)                |
 | 8                 | Steak Bourrée                  | 4:14     | [[dansen:bourrees:bourree-d-auvergne|Bourree d’Auvergne]]                          |
@@ -49,7 +49,7 @@ Met behulp van een crowdfunding project in samenwerking met de gemeente Tilburg 
 | 1                    | Brunch Bourrée                                     | 3:45     | [[dansen:bourrees:bourree-du-berry|Bourrée du Berry]]                          |
 | 2                    | Scotch On The Rocks (Crooked Scottish)             | 3:56     | [[dansen:koppeldansen:scottish|Scottish]]                                      |
 | 3                    | Wittebroodswals (Waltz)                            | 4:48     | [[dansen:koppeldansen:wals|Wals]]                                         |
-| 4                    | There Goes Bill (Cercle Circassien / Tover Cirkel) | 4:05     | [[dansen:mixers:cercle-tovercirkel|Cercle (Tovercirkel)]]                      |
+| 4                    | There Goes Bill (Cercle Circassien / Tover Cirkel) | 4:05     | [[dansen:mixers:cercle-circassien-tovercirkel|Cercle (Tovercirkel)]]                      |
 | 5                    | Jig Bourguignon                                    | 3:38     | [[dansen:mixers:chapelloise-jig-gigue|Chapelloise (Jig, Gigue)]]               |
 | 6                    | Scottish Fo Oriane                                 | 4:08     | [[dansen:koppeldansen:scottish|Scottish]]                                      |
 | 7                    | Chai (Suite Gavotte)                               | 6:57     | [[dansen:gavottes:gavotte-des-montagnes|Gavotte des Montagnes]]    |

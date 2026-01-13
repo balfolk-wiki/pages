@@ -1,6 +1,10 @@
 **[[algemeen|Algemeen]]**
-{{simplenavi>algemeen}}
 
+  * [[algemeen:over-balfolk|Wat Is Balfolk?]]
+  * [[algemeen:etiquette|Etiquette]]
+  * [[algemeen:terminologie|Terminologie]]
+  * [[algemeen:danshouding|Danshouding]]
+  * [[algemeen:links|Links]]
 
 ----
 
@@ -12,3 +16,8 @@
 
 **[[overige|Overige]]**
 {{simplenavi>overige}}
+
+----
+
+**[[werken-met:start|Werken met Balfolk-Wiki]]**
+{{simplenavi>werken-met}}

@@ -1,0 +1,77 @@
+====== Groepsdansen ======
+
+<row>
+<col md="4">
+<panel title="Bretagne" type="info">
+
+  * [[.groepsdansen:an-dro|An dro]]
+  * [[.groepsdansen:an-dro:an-dro-retourne|An dro retourné]]
+  * [[.groepsdansen:bal-paludier|Bal Paludier]]
+  * [[.groepsdansen:hanter-dro|Hanter dro]]
+  * [[.groepsdansen:hanter-dro:hanter-dro-klamm|Hanter dro klamm]]
+  * [[.groepsdansen:keff|Keff]]
+  * [[.groepsdansen:kejaj|Kejaj]]
+  * [[.groepsdansen:laride|Laridé]]
+  * [[.groepsdansen:laride:laride-in-6|Laridé in 6]]
+  * [[.groepsdansen:maraichine|Maraîchine]] (ook Poitou)
+  * [[.groepsdansen:pach-pi|Pach pi]]
+  * [[.groepsdansen:passepied-de-plaintel|Passepied de Plaintel]]
+  * [[.groepsdansen:pile-menu|Pilé menu]]
+  * [[.groepsdansen:plinn|Plinn]]
+  * [[.groepsdansen:ridee|Ridée]]
+  * [[.groepsdansen:ridee:ridee-de-josselin|Ridée de Josselin]]
+  * [[.groepsdansen:rond-de-landeda|Rond de Landeda]]
+  * [[.groepsdansen:rond-de-loudeac|Rond de Loudéac]]
+  * [[.groepsdansen:rond-de-loudeac:suite-de-loudeac|Suite de Loudeac]]
+  * [[.groepsdansen:rond-de-saint-vincent|Rond de Saint-Vincent]]
+  * [[.groepsdansen:ronde-avant-deux|Ronde avant deux]] (ook Poitou)
+  * [[.groepsdansen:rond-paludier|Rond Paludier]]
+  * [[.groepsdansen:tour|Tour]]
+  * [[.groepsdansen:tricot|Tricot]]
+</panel>
+</col>
+
+<col md="4">
+<panel title="Poitou" type="info">
+
+  * [[.groepsdansen:bal-limousine|Bal limousine]]
+  * [[.groepsdansen:branle-de-barbatre|Branle de Barbâtre]]
+  * [[.groepsdansen:branle-de-noirmoutier|Branle de Noirmoutier]]
+  * [[.groepsdansen:demi-rond-de-l-ile-d-yeu|Demi-rond de l’Île d’Yeu]]
+  * [[.groepsdansen:demi-tour-de-noirmoutier|Demi-tour de Noirmoutier]]
+  * [[.groepsdansen:grand-danse|Grand’danse]]
+  * [[.groepsdansen:maraichine|Maraîchine]] (ook Bretagne)
+  * [[.groepsdansen:mardi-gras|Mardi gras]]
+  * [[.groepsdansen:polaie|Polaïe]]
+  * [[.groepsdansen:poraie|Poraïe]]
+  * [[.groepsdansen:rond-de-barbatre|Rond de Barbâtre]]
+  * [[.groepsdansen:rond-de-l-epine|Rond de l’Epine]]
+  * [[.groepsdansen:rond-de-l-ile-d-yeu|Rond de l’Île d’Yeu]]
+  * [[.groepsdansen:ronde-avant-deux|Ronde avant deux]] (ook Bretagne)
+  * [[.groepsdansen:ronde-de-chantecorps|Ronde de Chantecorps]]
+</panel>
+</col>
+
+<col md="4">
+<panel title="Overig" type="info">
+
+  * [[.groepsdansen:branle-bearnais|Branle Béarnais]] (Béarn)
+  * [[.groepsdansen:branle-d-ecosse|Branle d’Ecosse]]
+  * [[.groepsdansen:branle-de-la-fosse-aux-loups|Branle de la fosse aux loups]] (Tribal Jâze)
+  * [[.groepsdansen:danse-de-l-ours|Danse de l’ours]] (Vlaanderen)
+  * [[.groepsdansen:horo|Horo]] (Balkan)
+  * [[.groepsdansen:langdans|Långdans]] (Scandinavië)
+  * [[.groepsdansen:misirlou|Misirlou]] (VS)
+  * [[.groepsdansen:portoghese|Portoghese]]
+  * [[.groepsdansen:reel|Reel]]
+  * [[.groepsdansen:rigaudon|Rigaudon]]
+  * [[.groepsdansen:rond-d-argenton|Rond d’Argenton]] (Berry)
+  * [[.groepsdansen:ronde-du-quercy|Ronde du Quercy]]
+  * [[.groepsdansen:rondeau-en-chaine|Rondeau en chaîne]]
+  * [[.groepsdansen:sbrando|Sbrando]]
+  * [[.groepsdansen:set-carre|Set carré]]
+  * [[.groepsdansen:tarantella|Tarantella]]
+  * [[.groepsdansen:tsadik-katamar|Tsadik katamar]]
+</panel>
+</col>
+</row>

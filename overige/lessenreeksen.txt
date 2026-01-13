@@ -3,3 +3,115 @@
 Hierbij een community bijgehouden samenvatting van huidige en vroegere lessenreeksen binnen Nederland.
 
 //Svp dit niet gebruiken als agenda voor het noteren van stop-start data voor toekomstige lessenreeksen//
+
+
+===== Niveaus =====
+
+Lessenreeksen hebben allemaal een instroom niveau.
+Wij hebben er hier voor gekozen om daarbij te werken met een, aangepaste vorm, van de niveauindeling die gebruikt wordt door Dansstage.
+
+Het is belangrijk om bij lesniveaus het volgende op te merken:
+
+**Aanvulllingen:**
+
+Elke Docent, bepaald zelf diens curriculum.
+Wij omschrijven hier basis vaardigheden en dansen, maar hier bovenop zal elke docent nog zelf een selectie maken. Dit is niet goed, of fout, maar maatwerk, zowel naar de wensen groep als wensen van de docent.
+
+**Differentiatie:**
+
+Los niveaus staan niet in steen gegrift.
+Een les zal doorgaans onderdelen bevatten, die herhaling zijn van een lager niveau én onderdelen uit een iets hoger niveau voor mensen die dingen snel oppakken. Een les van niveau 2b, kan daardoor ook nog zeer nuttig zijn voor iemand met niveau 3. Terwijl een Les van niveau 1, waarschijnlijk te weinig uitdaging zal bevatten voor iemand van niveau 3.
+
+**How about workshops?**
+
+Deze niveaus geven handvaten om //algemeen// dansniveau en lesniveau te bepalen.
+Voor workshops en lessenseries in specifieke dansen, is deze indeling niet bijzonder geschikt.
+
+==== Niveau-indeling ====
+
+Note:
+Uitstroom dansen en vaardigheden, zijn altijd cumulatief op de voorgaande niveaus.
+
+Wat onder basis verstaan wordt, varieert per docent en per dans.
+Zie daarvoor de specifieke danspagina's en bespreek het met je docent.
+
+
+----
+
+
+=== Niveau 1 ===
+
+Instroom niveau:
+Geen ervaring tot geen ervaring met gestructureerde lessen.
+
+Uitstroom dansen:
+  * Basis Scottish
+  * Andro
+  * Hanterdro
+  * Cercle/tovercirkel
+  * Basis jig
+
+Uitstroom dansvaardigheden:
+  * Basis in leiden/volgen
+  * Basis half-open dansframe
+  * Basis van draaien bij Scottish en Jig
+  * Consent en solide begin in floorcraft
+
+
+----
+
+=== Niveau 2a ===
+
+Instroom niveau:
+Uitstroom Niveau 1
+
+Uitstroom dansen:
+  * Scottish met complexere variaties
+  * Jig met minder gebruikelijke variaties
+  * Basis Wals in 3
+  * Basis Mazurka
+  * Basis Bourrée du Berry
+
+Uitstroom dansvaardigheden:
+  * Meer aandacht voor dansen "kleiner" dansen
+  * Begrip in overlap van variaties bij koppeldansen
+  * Basis muziekbegrip: Onderscheid Mazurka van Wals
+  * Verdieping van frame en communicatie
+
+
+----
+
+=== Niveau 2b ===
+
+Instroom niveau:
+Uitstroom Niveau 2a
+
+Uitstroom dansen:
+  * wals in 5
+  * wals in 8
+
+Uitstroom dansvaardigheden:
+  * (overgaan naar) Gesloten danshouding
+  * Consent bij dansen in gesloten danshouding
+  * (overgaan naar) Open danshouding
+
+
+----
+
+=== Niveau 3 ===
+
+Instroom niveau:
+Uitstroom Niveau 2b
+
+Uitstroom dansen:
+je kunt alles dansen
+
+Uitstroom dansvaardigheden:
+Je bent een dansgod
+
+----
+
+=== Niveau 4 ===
+
+Bijzonder:
+Mensen met voldoende ervaring in niveau 3, dat ze verwachten met hoge snelheid nieuwe dansvaardigheden op dat niveau op te nemen.

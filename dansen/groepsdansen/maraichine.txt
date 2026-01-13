@@ -1,6 +1,6 @@
 ====== Maraîchine ======
 
-De **Maraîchine** is een dans uit de //Marais Breton Vendéen//, een moerasgebied bij de grens tussen Bretagne en de Poitou. Het is een actieve en energieke groepsdans gedanst in leider-volger paren in een cirkel.
+De **maraîchine** is een dans uit de //Marais Breton Vendéen//, een moerasgebied bij de grens tussen Bretagne en de Poitou. Het is een actieve en energieke groepsdans gedanst in leider-volger paren in een cirkel.
 
 ===== Basis =====
 
@@ -13,7 +13,7 @@ Leiders (links) en volgers (rechts) vormen in afwisseling een kring (gebruikelij
 Gedurende de hele dans wordt de //avant-deuxpas// (ook wel //maraîchinepas//) gedanst. Het voetenwerk is, voor zowel de leiders als volgers:
 
   * Tel 1: Linkervoet
-  * Tel -ne-: Rechtervoet
+  * Tel -ne-: Rechtervoet (voor uitleg over tel -ne- zie [[algemeen:terminologie#off-beat|off-beat]])
   * Tel 2: Linkervoet
   * Tel 3: Rechtervoet
   * Tel 4: Bounce
@@ -37,6 +37,7 @@ In de vierde maat bewegen de dansers zich terug naar de beginhouding van het A-d
 ===== Aanwijzingen =====
 
   * De maraîchine begint vaak met een aankondiging //Maraîchine partez// waarna de dans direct begint.
+  * Wat betreft de ruimte op de vloer, houdt rekening met het feit dat jouw circel en eventuele andere circels nog naar achter gaan. Je kunt bijvoorbeeld tijdens het zoeken naar ruimte de circel nog groot laten, zodat je ziet hoeveel ruimte je inneemt, om als iedereen staat de circel klein te maken voor //Maraîchine partez!//
 
 ===== Variaties =====
 
