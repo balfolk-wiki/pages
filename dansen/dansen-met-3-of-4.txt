@@ -1,3 +1,5 @@
 ====== Dansen met 3 of 4 ======
 
-Hieronder een lijst met dansen die met 3 of 4 dansers gedanst worden. Let op: de Gavotte de l'Aven staat onder de gavottes!
+Hieronder een lijst met dansen die met 3 of 4 dansers gedanst worden. Let op: de [[.:gavottes:gavotte-de-l-aven-caresse|gavotte de l’Aven caresse]] staat onder de gavottes!
+
+{{simplenavi>dansen:dansen-met-3-of-4}}

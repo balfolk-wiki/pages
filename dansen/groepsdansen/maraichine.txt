@@ -12,11 +12,11 @@ Leiders (links) en volgers (rechts) vormen in afwisseling een kring (gebruikelij
 
 Gedurende de hele dans wordt de //avant-deuxpas// (ook wel //maraîchinepas//) gedanst. Het voetenwerk is, voor zowel de leiders als volgers:
 
-  * Tel 1: Linkervoet
-  * Tel -ne-: Rechtervoet (voor uitleg over tel -ne- zie [[algemeen:terminologie#off-beat|off-beat]])
-  * Tel 2: Linkervoet
-  * Tel 3: Rechtervoet
-  * Tel 4: Bounce
+  * **Tel 1**: Linkervoet
+  * **...en...**: Rechtervoet (voor uitleg over tel -ne- zie [[algemeen:terminologie#off-beat|off-beat]])
+  * **Tel 2**: Linkervoet
+  * **Tel 3**: Rechtervoet
+  * **Tel 4**: Bounce
 
 Verder is de dans onderverdeeld in een A-deel en een B-deel:
 

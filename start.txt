@@ -11,6 +11,8 @@ De teksten zijn bedoeld als geheugensteun; enige basiskennis van balfolk is aanb
 
 <col md="4">
 <panel title="💃 Dansen" type="info">
+[[Dansen:start|Overzicht van alle dansen]]
+
 • Pasbeschrijvingen
 
 • Variaties

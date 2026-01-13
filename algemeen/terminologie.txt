@@ -8,42 +8,20 @@ verschillende balfolk dansen.
 
 //Editor note: een groot deel hiervan is in onbruik geraakt, achterhaald of ronduit onbegrijpbaar. Derhalve moet dit volledig worden herzien//
 
-==== Muzikale begrippen ====
 
-=== Off-beat ===
-De tel waar gebruikelijk in de muziek geen nadruk ligt. Bijvoorbeeld bij een 4/4 maat ligt de nadruk gebruikelijk op tel 1, met een lichtere nadruk op tel 3.
+===== Dansbegrippen =====
 
-Dus: ''__**1**__ 2 **3** 4''
-
-tel ''2'' en ''4'' zijn hier de off beat
-
-Daarnaast kunnen de gebruikelijke kwartnoten opgedeeld worden in kleinere delen. Wanneer je bijvoorbeeld met achtste noten werkt kun je het ritme zo weergeven:
-''
-__**1** __ en 2 en **3** en 4 en''
-
-Waarbij ''en'' de tweede achtste noot van de tel voorstelt (''1'' en ''en'' zijn twee achtste noten, dus samen weer een kwart net als ''1'' in het eerste voorbeeld)
-
-Nadruk (of een pas) op deze "en" is ook een offbeat.
-
-Daarnaast zou je de tellen ook in kleinere delen kunnen opdelen, bijvoorbeeld:
-''__**1** __ en //ne// 2 en //ne// **3** en //ne// 4 en //ne//''
-Dan zijn ook de ''//ne//'' off-beat.
-Dit komt bijvoorbeeld voor als er [[https://en.wikipedia.org/wiki/Tuplet#Triplet|triolen]] worden gespeeld of met [[https://en.wikipedia.org/wiki/Swing_time|swing ritme]]
-
-Zie ook [[https://en.wikipedia.org/wiki/Beat_(music)#On-beat_and_off-beat| Off-beat op Wikipedia]]
-
-
-===== Standbeen =====
+==== Standbeen ====
 
 Het been waarop het gewicht rust. Het andere been is daarmee vrij om te verplaatsen.
-Wanneer een pas gezet wordt, wisselt het standbeen. Dit is anders bij een tap (verzette voet raakt de grond maar er komt geen gewicht op, volgende beweging is met hetzelfde been) of hop (standbeen komt los van de grond en komt weer neer, dezelfde vrije voet is klaar voor de volgende beweging).
+Wanneer een pas gezet wordt, wisselt het standbeen. Dit is anders bij een tik (verzette voet raakt de grond maar er komt geen gewicht op, volgende beweging is met hetzelfde been) of hop (standbeen komt los van de grond en komt weer neer, dezelfde vrije voet is klaar voor de volgende beweging).
 
-===== Stap =====
+==== Stap ====
 
 het verplaatsen van een voet met overbrengen van het lichaamsgewicht,
 terwijl de andere voet nog op de grond is.
 
-===== Sprong =====
+==== Sprong ====
 
 Dit is een afzet van één van beide voeten of van allebei tegelijk,
 daarna een zweefmoment en tenslotte neerkomen op één van beide voeten of
@@ -60,31 +38,31 @@ op allebei.
   - sprong van de ene op de andere voet (Loopsprong)
   - sprong van de ene voet, neerkomen op dezelfde: hup of hop
 
-===== Tik =====
+==== Tik ====
 
 Het met de voet de grond aantikken zonder dat er gewicht wordt
 overgebracht.
 
 Kan bv met teen, hele voet of hiel.
 
-===== Wandelpas =====
+==== Wandelpas ====
 
 een serie stappen, kan voorwaarts of achterwaarts
 
-===== Looppas =====
+==== Looppas ====
 
 een serie loopsprongetjes voorwaarts of achterwaarts. Onstaat meestal
 wanneer een wandelpas versneld wordt.
 
-===== Aansluitpas =====
+==== Aansluitpas ====
 
 Een stap naast het standbeen
 
-===== Bijtrekpas =====
+==== Bijtrekpas ====
 
 Een stap opzij gevolgd door aansluitpas.
 
-===== Wisselpas =====
+==== Wisselpas ====
 
 dubbele gewichtswisseling met aansluitpas
 
@@ -96,18 +74,18 @@ Bijvoorbeeld met Links te beginnen:
   * sluit rechterbeen aan met gewicht
   * verplaats linkerbeen met gewicht
 
-Voorbeeld: de eerste pas van de An-Dro is een wisselpas naar links (met
-linkerbeen te beginnen). De tweede pas van de An-Dro is een wisselpas op
+Voorbeeld: de eerste pas van de an dro is een wisselpas naar links (met
+linkerbeen te beginnen). De tweede pas van de an dro is een wisselpas op
 de plaats (zonder verplaatsing) met rechterbeen te beginnen.
 
-===== Galoppas =====
+==== Galoppas ====
 
 Stap opzij, gevolgd door aansluiten van de andere voet met een
 sprongetje, het aansluiten gebeurt nu in de lucht. De pas ontstaat
 meestel wanneer een bijtrekpas versneld wordt. Om de pas goed in te
 zetten moet men beginnen met een opvering op het afzetbeen.
 
-===== Stap-hop pas =====
+==== Stap-hop pas ====
 
 Een stap op rechts, gevolgd door een hop op hetzelfde been, dan idem
 links enz.
@@ -116,16 +94,16 @@ links enz.
 opvering op de 3e tel en met gekruist overzwaaien van het speelbeen, dan
 ontstaat de Zweedse Dalpas).
 
-===== hop-stap pas =====
+==== Hop-stap pas ====
 
 Een hop op rechts, gevolgd door een stap met links, daarna begint de
 volgende weer met een hop op links, enz.
 
-===== Huppelpas =====
+==== Huppelpas ====
 
 Een versnelde stap-hop pas.
 
-===== Rielpas =====
+==== Rielpas ====
 
 Een stap-hop pas of een huppelpas, waarbij de voet steeds achter c.q.
 vóór  de andere wordt neergezet en dan bij de hup weer naar voren c.q.
@@ -133,16 +111,6 @@ naar achteren wordt verplaats, zodanig dat men op  dezelfde plek blijft.
 
 Om deze pas goed te kunnen uitvoeren moet men de benen goed uitdraaien.
 
-===== Driepas =====
-
-Algemene benaming voor iedere pas die uit drie stapjes bestaat.
-
-Hieronder enkele varianten:
-
-==== Wisselpas ====
-
-Drie wandelpassen in het ritme kort/kort/lang, waarbij de tweede pas
-meestal een aansluitpas is
 
 ==== Schotse pas ====
 
@@ -179,70 +147,30 @@ rechter voet dan weer verplaats etc.
 
 Niet te verwarren met het "SPINNEN" - dat doe je met z'n tweeën
 
-===== Draaipassen =====
+===== Muzikale begrippen =====
 
-Sommige van bovenstaande passen kunnen door paren draaiend worden
-uitgevoerd. Dan krijg je bijvoorbeeld:
+==== Opmaat ====
+Niet ieder muziekstuk begint op de eerste tel van de maat. Een opmaat is een “niet complete eerste maat”. Een voorbeeld is bijvoorbeeld de "er" aan het begin van "Er is er één jarig".
 
-==== Wandelpas ====
+==== Off-beat ====
+De tel waar gebruikelijk in de muziek geen nadruk ligt. Bijvoorbeeld bij een 4/4 maat ligt de nadruk gebruikelijk op tel 1, met een lichtere nadruk op tel 3.
 
-Wordt een TWEESTAPSDRAAI ook wel genoemd BOERENWALS
+Dus: ''__**1**__ 2 **3** 4''
 
-==== Stap-Hop ====
+tel ''2'' en ''4'' zijn hier de off beat
 
-Wordt een stap-hop met rondgaan oftewel een POLKA pas MET OVERSTAP
+Daarnaast kunnen de gebruikelijke kwartnoten opgedeeld worden in kleinere delen. Wanneer je bijvoorbeeld met achtste noten werkt kun je het ritme zo weergeven:
+''
+__**1** __ en 2 en **3** en 4 en''
 
-==== Wisselpas ====
+Waarbij ''en'' de tweede achtste noot van de tel voorstelt (''1'' en ''en'' zijn twee achtste noten, dus samen weer een kwart net als ''1'' in het eerste voorbeeld)
 
-Dat wordt een GLIJPOLKA
+Nadruk (of een pas) op deze "en" is ook een offbeat.
 
-==== Walspas ====
+Daarnaast zou je de tellen ook in kleinere delen kunnen opdelen, bijvoorbeeld:
+''__**1** __ en //ne// 2 en //ne// **3** en //ne// 4 en //ne//''
+Dan zijn ook de ''//ne//'' off-beat.
+Dit komt bijvoorbeeld voor als er [[https://en.wikipedia.org/wiki/Tuplet#Triplet|triolen]] worden gespeeld of met [[https://en.wikipedia.org/wiki/Swing_time|swing ritme]]
 
-Doe je dat met zijn tweeën dan heet het een WALS
+Zie ook [[https://en.wikipedia.org/wiki/Beat_(music)#On-beat_and_off-beat| Off-beat op Wikipedia]] (inclusief soundclips)
 
-==== Schotse pas ====
-
-Wordt, als je doordraait, een (normale) POLKA. Doe je dit in open
-danshouding heen-en-weer dan heb je (rara) een OPEN POLKA.
-
-==== Spinpas ====
-
-Doe je dit samen dan ben je aan het SPINNEN.
-
-===== Het draaien =====
-
-Bij al deze passen behalve bij de SPINPAS werken de partners met
-tegengestelde voeten (man links vrouw rechts)
-
-Men draait in het algemeen rechtsom en beweegt daarbij in dansrichting -
-alleen SPINNEN gebeurt op de plaats. Als spil fungeert het rechterbeen
-dat afwisselend door de man en door de vrouw tussen de voeten van de
-partner wordt geplaatst. Men stapt met de rechtervoet voorwaarts en in
-dansrichting. Door de voet uitgedraaid neer te zetten krijg je al een
-behoorlijke draaiing, maar je moet wel degelijk elke draai met je
-schouders inzetten. Op de linkervoet stapt men vervolgens achteruit in
-dansrichting, ook hierbij de voet weer uitgedraaid neerzetten.
-
-Het TUSSENPLAATSEN van de voet gebeurt:
-
-===== Tweestapsdraai en stop-hop in de rondte =====
-
-Iedere keer dat de RECHTER voet wordt neergezet
-
-===== Glijpolka =====
-
-Op de "slow" van het quick-quick-slow ritme. Elke tel draai je 1/4
-
-===== Wals =====
-
-Op de eerste tel van elke maat
-
-===== Polka =====
-
-Eigenlijk draai je steeds een halve slag op het zweefmoment van de
-"hup". Voet wordt niet zo erg duidelijk tussen de voeten van de partner
-geplaatst.
-
-===== Spinnen =====
-
-Hierbij worden de RECHTER voeten met de BUITENKANTEN naast elkaar gezet.

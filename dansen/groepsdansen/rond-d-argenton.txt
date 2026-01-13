@@ -16,11 +16,11 @@ In de meest standaard vorm is het patroon in de muziek **AABCC** en in de dans *
 
 === A-deel ===
 
-  * Tel 1: Zet de rechervoet kruiselings voor de linkervoet.
-  * Tel 2: Zet een stap met de linkervoet, iets naar links op de cirkel.
-  * Tel 3: Zet de rechtervoet kruiselings achter de linkervoet.
-  * Tel 4: Zet een stap met de linkervoet, iets naar links op de cirkel.
-  * Tel 5 t/m 8: Herhaal tel 1 t/m 4.
+  * **Tel 1**: Zet de rechervoet kruiselings voor de linkervoet.
+  * **Tel 2**: Zet een stap met de linkervoet, iets naar links op de cirkel.
+  * **Tel 3**: Zet de rechtervoet kruiselings achter de linkervoet.
+  * **Tel 4**: Zet een stap met de linkervoet, iets naar links op de cirkel.
+  * **Tel 5 t/m 8**: Herhaal tel 1 t/m 4.
 
 Eventueel kun je hierbij op de tellen 1, 3, 5 en 7 de armen iets omhoog doen, en op tellen 2, 4, 6 en 8 de armen weer laten zakken.
 

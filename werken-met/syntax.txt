@@ -124,7 +124,49 @@ You can use up to five different levels of headlines to structure your content. 
 
 By using four or more dashes, you can make a horizontal line:
 
-----
+--------
+
+====Panels====
+
+You can use Panels to break up text into boxes to separate out important information, there are a few options available:
+<row>
+<col md="4">
+<panel title="Default" type="default">
+This panel uses the type default
+<code><panel title="Default" type="default"></code>
+</panel>
+</col>
+<col md="4">
+<panel title="Primary" type="primary">
+This panel uses the type primary
+<code><panel title="Primary" type="primary"></code>
+</panel>
+</col>
+<col md="4">
+<panel title="Success" type="success">
+This panel uses the type success
+<code><panel title="Success" type="success"></code>
+</panel>
+</col>
+<col md="4">
+<panel title="Info" type="info">
+This panel uses the type info
+<code><panel title="Info" type="info"></code>
+</panel>
+</col>
+<col md="4">
+<panel title="Warning" type="warning">
+This panel uses the type warning
+<code><panel title="Warning" type="warning"></code>
+</panel>
+</col>
+<col md="4">
+<panel title="Danger" type="danger">
+This panel uses the type danger
+<code><panel title="Danger" type="danger"></code>
+</panel>
+</col>
+</row>
 
 ===== Media Files =====
 

@@ -115,3 +115,6 @@ Je bent een dansgod
 
 Bijzonder:
 Mensen met voldoende ervaring in niveau 3, dat ze verwachten met hoge snelheid nieuwe dansvaardigheden op dat niveau op te nemen.
+
+===== Overzicht van lessenreeksen =====
+{{simplenavi>overige:lessenreeksen}}

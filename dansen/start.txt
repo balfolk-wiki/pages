@@ -97,7 +97,7 @@ In de Balfolk komt een klein aantal [[solodansen|solodansen]] voor met enige reg
 <panel title="Sauts" type="info">
 [[sauts|Sauts]] uit Béarn of Baskenland zijn solodansen in groep, die vaak gebruik maken van dezelfde basisingrediënten. De meestvoorkomende saut is:
 
-  * [[.:sauts:set-sauts|Set Sauts]]
+  * [[.:sauts:sept-sauts|Sept Sauts]]
 </panel>
 </col>
 </row>

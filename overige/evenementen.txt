@@ -1,1 +1,2 @@
 ====== Evenementen ======
+{{simplenavi>overige:evenementen}}
