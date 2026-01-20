@@ -4,22 +4,32 @@ De **rondeau en chaîne** is een vlotte rijdans met lekker veel vaart.
 
 ===== Opstelling =====
 
-Iedereen in 1 of meerdere lange slierten, met armen ingehaakt zoals bij de [[hanter-dro|Hanter dro]].
+Iedereen in 1 of meerdere lange slierten, met armen ingehaakt zoals bij de [[hanter-dro|hanter dro]].
 
 ===== Basis =====
 
-  * zij sluit zij (te beginnen met links, naar links)
-  * stap hop (op R)
-  * zij sluit zij (te beginnen met L, naar links)
-  * zij sluit zij (op de plaats, met R te beginnen)
+=== Maat 1 ===
 
-Armzwaai van langs het lichaam naar iets omhoog op elke eerste tel van
-elke maat
+  * **Tel 1**: Een stap met linkervoet naar links, en iets naar voren.
+  * **...en...**: Sluit rechtervoet aan.
+  * **Tel 2**: Een stap met de linkervoet naar links, en iets naar voren.
+  * **Tel 3**: Een stap met de rechtervoet, kruiselings voorlangs de linkervoet.
+  * **...en...**: Zet de linkervoet iets naar voren, zodat deze links van de rechtervoet staat.
+  * **Tel 4**: Nogmaals een stap met de rechtervoet kruiselings voorlangs de linkervoet.
+
+=== Maat 2 ===
+
+  * **Tel 1**: Zet de linkervoet iets naar voren, zodat deze links van de rechtervoet staat.
+  * **tot en met einde van tel 2**: Beweeg de rechtervoet voorlangs een klein beetje (!) naar achteren
+  * **Tel 3 en 4**: Zoals tel 3 en 4 van maat 1.
+
+Zwaai met de arm van langs het lichaam iets omhoog op de eerste en derde tel van elke maat
 
 ===== Aanwijzingen =====
 
-Soms kan het snel gaan, let erop dat de laatste persoon in de sliert mee
-kan komen
+  * Soms kan het snel gaan, let erop dat de laatste persoon in de sliert mee kan komen.
+  * De muziek van een rondeau en chaîne is vaak dezelfde muziek die ook voor een rondeau en couple gebruikt kan worden.
+  * Kijk in tel 1 en 2 van de tweede maat uit dat je de voet niet te ver naar achteren beweegt om ongelukken met eventuele dansers achter je te voorkomen.
 
 ===== Variaties =====
 
@@ -27,6 +37,6 @@ kan komen
 
 ===== Videovoorbeelden =====
 
-{{youtube>rtVukyXDG0M|Rondeau en Couple (door Bert Leemans en Jeroen Geerinck)}}
+{{youtube>6RtDFDeVzZ8?}}
 
 ===== Externe Referenties =====

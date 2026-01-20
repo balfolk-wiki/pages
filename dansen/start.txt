@@ -64,7 +64,7 @@ Verder zijn er veel [[groepsdansen|groepsdansen]] in rij of cirkel, zoals...
 <panel title="Gavottes" type="info">
 [[gavottes|Gavottes]] zijn een categorie groepsdansen uit Bretagne. Enkele gavottes die vaak tegenkomt in de Balfolk zijn de:
 
-  * [[.:gavottes:gavotte-de-l-aven-caresse|Gavotte de l'Aven caresse]] (of Gavotte de Grenoble)
+  * [[.gavottes:gavotte-de-grenoble|Gavotte de l'Aven caresse]] (of Gavotte de Grenoble)
   * [[.:gavottes:kost-ar-c-hoad|Kost ar c'hoad]]
 </panel>
 </col>

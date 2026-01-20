@@ -7,9 +7,7 @@ De **bourrée d’Auvergne**, ook wel **bourrée auvergnate**, wordt ook wel gez
 ==== Opstelling ====
 
 In koppel: verspreid over de ruimte, handen los, naast elkaar.
-
-Leider staat links, Volger rechts van de Leider. Rechterschouders naar elkaar; Volger en Leider kijken dus in tegengestelde richting. In feite staat de Leider ook rechts van de Volger.
-
+Er wordt gespiegeld bewogen rondom een denkbeeldig punt in de ruimte.
 ==== Basisstappen ====
 
 === Pas ===
@@ -40,7 +38,7 @@ Officieel is niets vastgelegd, maar als houvast kan de volgende volgorde dienen 
 
 == Banaan ==
 
-Leider en Volger schuiven vier maten voor elkaar langs naar rechts waarbij kijkrichting, schouders en heupen op dezelfde lijn blijven (frontaal naar partner).
+De dansers schuiven vier maten voor elkaar langs naar rechts waarbij kijkrichting, schouders en heupen op dezelfde lijn blijven (frontaal naar partner).
 
 Na vier maten van richting veranderen en op de volgende vier maten weer terug naar de beginpositie.
 
@@ -48,9 +46,9 @@ De figuur die op de grond wordt afgelegd is banaanvormig, vandaar de naam "banaa
 
 == Rond ==
 
-Leider en Volger cirkelen om elkaar heen, richting is niet vastgelegd. Er mag ook van richting gewisseld worden.
+De dansers cirkelen om elkaar heen, richting is niet vastgelegd. Er mag ook van richting gewisseld worden.
 
-Leider of Volger kan bovendien om eigen as draaien; ook hier is de richting niet vastgelegd.
+Een van beide dansers kan bovendien om eigen as draaien; ook hier is de richting niet vastgelegd.
 
 Te doen gebruikelijk is wel dat de asdraaiende tegengesteld draait aan de paar-draai.
 
@@ -58,7 +56,7 @@ Te doen gebruikelijk is dat er één persoon om de as draait, niet beide.
 
 === Belangrijk ===
 
-De "volger" spiegelt de lichaamshouding van de "leider".
+Men spiegelt de lichaamshouding van de danspartner ten opzichte van een punt in de ruimte.
 
 Er zijn vijf richtingen:
 
@@ -68,17 +66,17 @@ Er zijn vijf richtingen:
   * Diagonaal links
   * Diagonaal rechts
 
-De "leider" kan/mag/moet van oriëntatie wisselen en de "volger" volgt. Er is altijd contact met de partner.
+Er is altijd contact met de partner. Daarom wordt over het algemeen vermeden om met de rug naar elkaar te dansen of elkaar te passeren voorbij het 'perifere zicht'.
 
 ===== Aanwijzingen =====
 
-Allerbelangrijkste is dat de "leider" duidelijk aangeeft (richtingen, oriëntatie, draaien) en de "volger" goed oplet en goed volgt. Daarom moet er altijd goed contact tussen beide zijn.
+  * In muziek voor bourree Auvergnate is vrijwel altijd een duidelijk A- en B-deel te herkennen. Daarnaast zijn er duidelijke accenten waarop bijvoorbeeld van richting gewisseld kan worden of waar ruimte is voor frappes. Het kan zijn dat een A- of B-deel niet precies binnen de 4 maten past. Vooral luisteren naar de muziek en niet teveel tellen.
+  * Vooral bij sterk klinkende vloeren kunnen frappes erg doorklinken. Let erop dat je hiermee de muzikanten en andere dansers niet teveel stoort.
 
-Het is echter ook mogelijk dat leider en volger van rol wisselen, of dat elk op willekeurige momenten een initiatief ontplooit. Hiervoor is goed contact uiteraard nóg belangrijker.
 
 ===== Variaties =====
 
-Aan het einde van de banaan kan men de frappés doen. Dit zijn lichte stampjes.
+Aan het einde van de banaan kan men frappés doen. Dit zijn lichte stampjes. Let wel dat deze frappés afhankelijk van je schoeisel en de vloer al dan niet geluid kunnen maken. Met harde zolen (bijvoorbeeld een houten hak) kun je geluid produceren, met bijvoorbeeld danssneakers is dit eigenlijk niet mogelijk. Probeer je dit toch te forceren dan is er risico op blessures.
 
 Er zijn enorm veel varianten mogelijk aangezien er niets is vastgelegd.
 
@@ -88,7 +86,6 @@ Voorbeeld: stel je bent de banaan begonnen met L. Dan zou je het volgende kunnen
 
 En vervolgens met L weer op de terugweg naar links
 
-Idem aan de andere kant van de Volger.
 
 Bij een vrijere dans kunnen bijvoorbeeld richtingsveranderingen en andere initiatieven aangekondigd worden met een frappé.
 
@@ -98,3 +95,8 @@ Bij een vrijere dans kunnen bijvoorbeeld richtingsveranderingen en andere initia
 {{youtube>NcIXw6u-65U|Chemins de Traverse au bal folk de Bures-sur-Yvette le samedi 19 mai 2007}}
 
 ===== Externe Referenties =====
+
+  * [[https://sites.google.com/site/lespiedsdansletrad/repertoire/bourrees-1#h.4vs52muz7qgb|muziek op Les Pieds dans le Trad]]
+  * [[http://www.patrimoinevivantdelafrance.fr/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=22&cntnt01returnid=28| achtergrond op patrimoinevivantdelafrance.fr]]
+
+  * [[https://auvergne-la-belle-province.fr/la-bourree-auvergnate/]]

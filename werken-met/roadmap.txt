@@ -20,9 +20,17 @@ Deze artikelen worden belangrijker bevonden dan anderen, omdat ze cruciaal zijn 
   * [[dansen:koppeldansen:scottish|Scottish]]
   * [[dansen:mixers:chapelloise-jig-gigue|Chapelloise (Jig, Gigue)]]
   * [[dansen:mixers:cercle-circassien-tovercirkel|Cercle Circassien (Tovercirkel)]]
-  * TODO: Aanvullen
+  * [[dansen:gavottes:gavotte-de-grenoble|Gavotte de Grenoble]]
 
 ==== Algemeen ====
 
   * [[algemeen:etiquette|Etiquette]] Bijv uitbreiden met topic consent
   * [[algemeen:danshouding|Danshouding]] 
+
+
+===== Lage prioriteit =====
+
+De volgende pagina's/categorien hebben expliciet ene lage prioriteit en/of bestaan slechts uit content uit de oude wiki:
+
+  * [[overige:evenementen|Evenementen]]
+  * [[overige:bladmuziek|Bladmuziek]]

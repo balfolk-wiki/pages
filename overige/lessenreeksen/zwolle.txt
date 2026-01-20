@@ -19,6 +19,10 @@ Ken je anderen die dit leuk zouden vinden? Neem ze gerust mee of wijs ze op deze
 **Beginners** werken toe naar het zelfstandig en ontspannen kunnen meedansen op een balfolkbal.  
 Deze groep is geschikt voor mensen zonder ervaring of voor wie de dansen weer wil ophalen.
 
+//Voorbeeld van een lesindeling uit 2025://
+
+{{ :overige:lessenreeksen:dans_per_les_zwolle_beginners_2025-1.pdf | Zwolle Lessenindeling Beginners}}
+
 **Begonners** bouwen hierop voort en zijn bedoeld voor dansers die de meest voorkomende dansen al kennen. In deze groep ligt de nadruk op samenspel met je danspartner, vloeiender dansen en het leren van enkele nieuwe dansen.
 
 ===== Praktische informatie =====

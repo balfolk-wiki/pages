@@ -10,7 +10,7 @@ Gelijk aan de wals in 3.
 
 ==== Basisstappen ====
 
-Walsen in 8, 11, enz. zijn in het algemeen opgebouwd uit blokjes van 3 (**1**23) en 5 (**1**23**1**2), die op verschillende manieren verdeeld kunnen worden.
+Walsen in 8, 11, enz. zijn in het algemeen opgebouwd uit blokjes van [[.|3]] (**1**23) en [[wals-in-5|5]] (**1**23**1**2), die op verschillende manieren verdeeld kunnen worden.
 
 === Wals in 8 ===
 
@@ -21,9 +21,9 @@ Er zijn de volgende tellingen mogelijk:
 === Wals in 11 ===
 
 Er zijn de volgende tellingen mogelijk:
-  * (353): **1**23 - **1**23**1**2 - **1**23
-  * (533): **1**23**1**2 - **1**23 - **1**23
-  * (335): **1**23 - **1**23 - **1**23**1**2
+  * (3-5-3): **1**23 - **1**23**1**2 - **1**23
+  * (5-3-3): **1**23**1**2 - **1**23 - **1**23
+  * (3-3-5): **1**23 - **1**23 - **1**23**1**2
 
 === Wals in 14 ===
 
@@ -34,7 +34,7 @@ Uiterst zeldzaam, maar zie hieronder twee audiofragmenten van Eric Thézé.
 Ook een onregelmatige wals is opgebouwd uit blokjes van 3 en 5, maar dan met een variërend patroon. Wederom, uiterst zeldzaam.
 
 ===== Aanwijzingen =====
-
+  * Gewoonlijk danst men aan het begin van ieder blokje van 3 of 5 een meer nadrukkelijke verplaatsing van het gewicht naar de andere kant. Zeker met onregelmatige walsen is het goed luisteren of er sprake is van een blokje van 3 (gewichtsverplaatsing na de 3e tel) of van 5 (geen gewichtsverplaatsing na de 3e tel, we tellen nog door tot 5). De eerste tel van een blokje heeft meestal meer nadruk dan de 4e tel van een blokje van 5.
 ===== Variaties =====
 
 ===== Audiovoorbeelden =====

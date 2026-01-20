@@ -10,19 +10,51 @@ Gewoon in paren, half-open houding, over de dansvloer heen
 
 ==== Basisstappen ====
 
-  * **A**: 123-123-
-  * **B**: 1-2-3-4-
+Het ritme is over het algemeen een 4/4 met vooral in het A-deel een accent op de [[algemeen:terminologie#off-beat|off-beats]]
 
+We beginnen met de vrije voet aan de open kant (volgers rechts, leiders links).
+
+===A deel===
+De "scot-tisch-pas", een aansluitpas met een kleine zijwaartse beweging
+
+Op tellen
+''**__1__ en __2__**'' naar de open kant
+''**3 __en__ 4**'' naar de gesloten kant
+
+Let op, ''**en**'' is hier de off-beat waarop we ook een pas zetten. Er zit evenveel tijd tussen alle tellen, dus bijvoorbeeld tussen ''__**1**__'' en ''**__2__**'' en tussen ''**__2__**''en ''**3**''. De ''**en**'' van ''**__1__ en __2__**'' en ''**3 __en__ 4**'' komt tussen de tellen in en deelt die tijd dus in tweeën.
+
+Je zou het ritme ook kunnen zien als
+''**__1__ en __2__** en **3 __en__ 4** en''
+met ieder getal en iedere 'en' als een achtste noot
+  * Voor de volger is dit ''**__rechts__ links __rechts__** (rust) **links __rechts__ links** (rust)'' waarbij rust betekent dat we even geen pas zetten in dit blokje tijd
+  * Voor de leider is dit ''**__links__ rechts __links__** (rust) **rechts __links__ rechts** (rust)
+''
+
+===B deel===
+Een pas op iedere tel, hierbij zou je bijvoorbeeld als koppel in het rond kunnen draaien
+''**__1__ 2 __3__ 4**
+''
+  * Voor de volger is dit ''**__rechts__ links __rechts__ links**''
+
+  *  Voor de leider is dit ''**__links__ rechts __links__ rechts**''
+
+Hier zetten we geen pas op de off-beat, dus in vergelijking met het A-deel zijn de passen langzamer.
+
+
+Anders gezegd, als we het vergelijken met het ''**__1__ en __2__** en **3 __en__ 4** en'' ritme van het A-deel zetten we in dezelfde tijd
+''**__1__** en **2** en **__3__** en **4** en''
+  * Voor de volger ''**__rechts__** (rust) **links** (rust) **__rechts__** (rust) **links** (rust)''
+  * En voor de leider ''**__links__** (rust) **rechts** (rust) **__links__** (rust) **rechts** (rust)''
 ===== Variaties =====
 
   * Draaien van de volger
-    * Een basisvariatie is op het B gedeelte de volger één, twee, drie of vier rondjes te laten draaien (vanuit de linkerhand van de Leider).
+    * Een basisvariatie is op het B gedeelte de volger één of meerdere rondjes te laten draaien (vanuit de linkerhand van de Leider).
     * Ook op het A gedeelte kunnen draaien worden gemaakt
-    * De leider kan bij de draai van de volger zijn rechterarm contact laten houden met de rug en na de draai de volger de andere kant op terug laten draaien
+    * De leider kan bij de draai van de volger hun rechterarm contact laten houden met de rug en na de draai de volger de andere kant op terug laten draaien
   * Omsluiten, elkaar los laten en in het A deel (dus 6 stappen) om een paar heen lopen (allebei een kant), B deel weer vrolijk samen verder dansen.
   * Hele figuur zijwaarts: het tweede deel van A gaat dus binnendoor en deel B is een soort 'naast elkaar lopen', zo kan ook wat afstand worden afgelegd naar een rustig plekje op de dansvloer.
-  * Op deel A uit elkaar gaan en gestrekte armen vastpakken en weer naar binnen gaan naar: danshouding, of handen vast voor het hart, of indraaien (Volger onder de linkerarm van de leider door). Hier een tijdje in dansen, dan de volger met een kort rukje aan haar linkerarm uit laten draaien op deel B.
-  * openvouwen naar links (voor de leider) en omdraaien naar rechts (voor de leider) op deel A en op deel B hard ronddraaien met de armen van de leider om de schouders van de volger en de armen van de volger om de nek van de leider. Op deel A kan zo wat heen en weer gewiebeld worden (ellebogen horizontaal) en op deel B kunnen wel twee rondjes worden gedraaid. Om hier uit te komen laat de leider de volger twee rondjes alleen draaien en hij bukt zelf meteen onder de armen van de volger uit om haar voor deel A weer op te vangen.
+  * Op deel A uit elkaar gaan en gestrekte armen vastpakken en weer naar binnen gaan naar: danshouding, of handen vast voor het hart, of indraaien (Volger onder de linkerarm van de leider door). Hier een tijdje in dansen, dan de volger met een kort rukje aan diens linkerarm uit laten draaien op deel B.
+  * openvouwen naar links (voor de leider) en omdraaien naar rechts (voor de leider) op deel A en op deel B hard ronddraaien met de armen van de leider om de schouders van de volger en de armen van de volger om de nek van de leider. Op deel A kan zo wat heen en weer gewiebeld worden (ellebogen horizontaal) en op deel B kunnen wel twee rondjes worden gedraaid. Om hier uit te komen laat de leider de volger twee rondjes alleen draaien en hen bukt zelf meteen onder de armen van de volger uit om die voor deel A weer op te vangen.
 
 ===== Videovoorbeelden =====
 

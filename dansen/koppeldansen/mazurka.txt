@@ -11,10 +11,33 @@ De **mazurka** is een zwoele tot levendige parendans. Oorspronkelijk een Franse 
 ==== Basisstappen ====
 
   * De volger begint rechts, de leider links
-  * De dans bestaat uit een afwisseling van een mazurka-maat en een wals-maat
-  * **Mazurka**: 1-2-wacht
-  * **Wals**: 1-2-3 (heen en weer)
-  * De wachtvoet wordt bij de volgende 1 weer neergezet
+  * De dans bestaat in de basis tussen een afwisseling tussen maten waarbij de derde tel geen stap wordt gezet. (Deze maten worden soms //mazurka//-maten, of //bloem// of //wacht//-maten (kijk uit met het zetten van een stap want daar ligt een bloem op de grond) genoemd.
+
+In de Balfolk is een basisversie die vaak gebruikt wordt:
+
+=== Maat 1 (bloem-maat beginnend op voet aan open kant van danshouding) ===
+
+  * Tel 1: Leider zet een stap met links, volger een stap met rechts
+  * Tel 2: Leider zet een stap met rechts, volger een stap met links
+  * Tel 3: //Bloem// of //wacht//: Geen stappen, maar je blijft even stil staan of je beweegt een klein beetje omhoog met het been op de grond.
+
+=== Maat 2 (gewone maat beginnend op voet aan open kant van danshouding) ===
+
+  * Tel 1: Leider zet een stap links, volger rechts
+  * Tel 2: Leider zet een stap rechts, volger links
+  * Tel 3: Leider zet een stap links, volger rechts
+
+=== Maat 3 ===
+
+  * Gelijk aan maat 1, maar met links en rechts omgewisseld (dus beginnend aan gesloten kant van de danshouding)
+
+=== Maat 4 ===
+
+  * Gelijk aan maat 2, maar met links en rechts omgewisseld (dus beginnend aan gesloten kant van de danshouding)
+
+Voor de leider zijn de stappen dus **LR-LRLRL-RLR**, en voor de volger **RL-RLRLR-LRL**.
+
+In een traditionele Franse mazurka begint men met drie maten van type //Maat 1//, gevolgd door één maat van type //Maat 2//, gevolgd door drie maten van type //Maat 3//, en één maat van type //Maat 4//.
 
 ===== Aanwijzingen =====
 
@@ -25,11 +48,11 @@ De **mazurka** is een zwoele tot levendige parendans. Oorspronkelijk een Franse 
 
   * rustig rondjes linksom of rechtsom draaien
   * naar voren of naar achteren lopen
-  * in plaats van 1-2-3 alleen een 1 maken, hier het gewicht echt op houden en zo de hele maat blijven
+  * //boogje//: in plaats van een 1-2-3 maat beweeg je langzaam vanaf de laatste tel van de vorige maat tot de 3, waar de voet landt. Deze zijn vooral fijn als de voet op de 3 neerkomt op de gesloten kant van de danshouding.
   * in plaats van de 1-2-wacht alleen een 1 maken, hier het gewicht echt op houden en zo de hele maat blijven
-  * in plaats van mazurka-wals-mazurka-wals andere variaties:
-    * mazurka-mazurka-wals-wals
-    * mazurka-mazurka-mazurka-wals
+  * in plaats van mazurka-1-2-3-mazurka-1-2-3 andere variaties:
+    * mazurka-mazurka-1-2-3-1-2-3
+    * mazurka-mazurka-mazurka-1-2-3 (de hierboven genoemde traditionele variatie)
     * wat je voelt op basis van de muziek
   * zie het tweede onderstaande filmpje (van bert en nog iemand) voor inspiratie, daar worden zeer veel mooie variaties gedanst.
 

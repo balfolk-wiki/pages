@@ -160,6 +160,7 @@ Dus: ''__**1**__ 2 **3** 4''
 tel ''2'' en ''4'' zijn hier de off beat
 
 Daarnaast kunnen de gebruikelijke kwartnoten opgedeeld worden in kleinere delen. Wanneer je bijvoorbeeld met achtste noten werkt kun je het ritme zo weergeven:
+
 ''
 __**1** __ en 2 en **3** en 4 en''
 
@@ -168,7 +169,9 @@ Waarbij ''en'' de tweede achtste noot van de tel voorstelt (''1'' en ''en'' zijn
 Nadruk (of een pas) op deze "en" is ook een offbeat.
 
 Daarnaast zou je de tellen ook in kleinere delen kunnen opdelen, bijvoorbeeld:
+
 ''__**1** __ en //ne// 2 en //ne// **3** en //ne// 4 en //ne//''
+
 Dan zijn ook de ''//ne//'' off-beat.
 Dit komt bijvoorbeeld voor als er [[https://en.wikipedia.org/wiki/Tuplet#Triplet|triolen]] worden gespeeld of met [[https://en.wikipedia.org/wiki/Swing_time|swing ritme]]
 

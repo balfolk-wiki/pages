@@ -10,15 +10,26 @@ Flankkring van paren. (Dat betekent: de paren staan 'in optocht' achter elkaar i
 
 ==== Basisstappen ====
 
-=== Deel A ===
-
-  * **I**: vooruitlopen 4 passen - draai om (linkerhand leider is nu vast met rechter­hand volger) en ga achteruit  door 4 passen (nog steeds tegen de klok in).
-  * **II**: vooruit teruglopen 4 passen - draai om en ga achteruit door 4 passen (met de klok mee)
-
-=== Deel B ===
-
-  * **III**: Set-pas (driepas) naar elkaar toe - idem uit elkaar - in looppassen van plaats wisselen
-  * **IV**: Set-pas naar elkaar toe - idem uit elkaar- draai door (heren laten de volgers onder hun linkerarm door naar achter gaan, door met de linkerhand een hoge poort te maken en naar links te bewegen zodat de volger schuin rechts naar achteren begeleid wordt, terwijl ze zelf schuin links naar voren stappen om de nieuwe volger op te vangen aan hun rechterhand die van voren eraan komt)
+De dans kan zowel op muziek in 4/4 maat (één tel is dan 1/4) als op muziek in 6/8 maat (één tel is dan 3/8) gedanst worden. De hele dans past dus in acht 4/4 maten, of zestien 6/8 maten. In onderstaande beschrijving ga ik uit van een 4/4 maatsoort.\\
+\\
+  * Maat 1
+    * Tel 1-4: vier stappen naar voren, op de kringlijn tegen de klok in (welke voet begint, maakt niet uit) en draai je halfom (meestal volger linksom, leider rechtsom)
+  * Maat 2
+    * Tel 1-4: vier stappen achteruit, op de kringlijn
+  * Maat 3
+    * Tel 1-4: vier stappen naar voren, op de kringlijn in klokrichting, en draai je halfom (meestal volger rechtsom, leider linksom)
+  * Maat 4
+    * Tel 1-4: vier stappen achteruit, op de kringlijn
+  * Maat 5
+    * Tel 1-en-2: driepas zijwaarts naar elkaar toe; dit betekent voor leiders rechts-links-rechts en voor volgers links-rechts-links
+    * Tel 3-en-4: driepas zijwaarts van elkaar af, op dezelfde manier
+  * Maat 6
+    * Tel 1-4: leider en volger wisselen van plaats: de volger draait voor de leider langs, hen aankijkend, en de leider beweegt naar rechts
+  * Maat 7
+    * Tel 1-en-2: driepas zijwaarts naar elkaar toe; dit betekent voor volgers rechts-links-rechts en voor leiders links-rechts-links
+    * Tel 3-en-4: driepas zijwaarts van elkaar af, op dezelfde manier
+  * Maat 8
+    * Tel 1-4: draai door (leiders laten de volgers onder hun linkerarm door naar achter gaan, door met de linkerhand een hoge poort te maken en naar links te bewegen zodat de volger schuin rechts naar achteren begeleid wordt, terwijl ze zelf schuin links naar voren stappen om de nieuwe volger op te vangen aan hun rechterhand die van voren eraan komt)
 
 ===== Aanwijzingen =====
 
