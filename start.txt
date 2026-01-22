@@ -11,7 +11,7 @@ De teksten zijn bedoeld als geheugensteun; enige basiskennis van balfolk is aanb
 
 <col md="4">
 <panel title="💃 Dansen" type="info">
-[[Dansen:start|Overzicht van alle dansen]]
+• [[Dansen:start|Overzicht van alle dansen]]
 
 • Pasbeschrijvingen
 
@@ -36,14 +36,14 @@ De teksten zijn bedoeld als geheugensteun; enige basiskennis van balfolk is aanb
 </col>
 
 <col md="4">
-<panel title="📚 Didactiek" type="info">
+<panel title="📚 Educatie" type="info">
 • Lesmethodes  
 
 • Workshopopbouw  
 
 • Didactische tips  
 
-• [[algemeen:terminologie|Terminologie]]
+• [[educatie:terminologie|Terminologie]]
 </panel>
 </col>
 

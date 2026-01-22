@@ -4,15 +4,17 @@
 
 De volgende punten worden door het moderatie/editor team op dit moment met prioriteit aangepakt:
 
-  * Opruimen van achterhaalde teksten
-  * Opruimen van inherent foutieve teksten
-  * Een begin maken aan (basis) teksten voor de Focus dansen
+  * Het verbeteren van de teksten voor de focusdansen
+  * Het opschonen van de terminologie-pagina
+  * Toevoegen basis samenvattingen van alle lessen
 
 ===== Focus artikelen =====
 
 Deze artikelen worden belangrijker bevonden dan anderen, omdat ze cruciaal zijn voor het begrip van balfolk of beginners.
 
 ==== Dansen ====
+
+De volgende dansen hebben een hoge prioriteit omdat dit vaak de eerste dansen zijn die beginners leren:
 
   * [[dansen:groepsdansen:an-dro|An dro]]
   * [[dansen:groepsdansen:hanter-dro|Hanter dro]]
@@ -21,6 +23,13 @@ Deze artikelen worden belangrijker bevonden dan anderen, omdat ze cruciaal zijn 
   * [[dansen:mixers:chapelloise-jig-gigue|Chapelloise (Jig, Gigue)]]
   * [[dansen:mixers:cercle-circassien-tovercirkel|Cercle Circassien (Tovercirkel)]]
   * [[dansen:gavottes:gavotte-de-grenoble|Gavotte de Grenoble]]
+
+De volgende dansen hebben een iets lagere, maar nog steeds hoge prioriteit, omdat ze vaak voorkomen in de Balfolk:
+
+  * [[dansen:koppeldansen:wals|Wals]]
+  * [[dansen:koppeldansen:polka|Polka]]
+  * [[dansen:bourrees:bourree-du-berry|Bourrée du Berry]]
+  * [[dansen:gavottes:kost-ar-c-hoad|Kost ar c’hoad]]
 
 ==== Algemeen ====
 

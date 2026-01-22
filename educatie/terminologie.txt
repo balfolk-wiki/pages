@@ -14,7 +14,7 @@ verschillende balfolk dansen.
 ==== Standbeen ====
 
 Het been waarop het gewicht rust. Het andere been is daarmee vrij om te verplaatsen.
-Wanneer een pas gezet wordt, wisselt het standbeen. Dit is anders bij een tik (verzette voet raakt de grond maar er komt geen gewicht op, volgende beweging is met hetzelfde been) of hop (standbeen komt los van de grond en komt weer neer, dezelfde vrije voet is klaar voor de volgende beweging).
+Wanneer een pas gezet wordt, wisselt het standbeen. Dit is anders bij een tik of tap (verzette voet raakt de grond maar er komt geen gewicht op, volgende beweging is met hetzelfde been) of hop (standbeen komt los van de grond en komt weer neer, dezelfde vrije voet is klaar voor de volgende beweging).
 
 ==== Stap ====
 
@@ -49,10 +49,6 @@ Kan bv met teen, hele voet of hiel.
 
 een serie stappen, kan voorwaarts of achterwaarts
 
-==== Looppas ====
-
-een serie loopsprongetjes voorwaarts of achterwaarts. Onstaat meestal
-wanneer een wandelpas versneld wordt.
 
 ==== Aansluitpas ====
 
@@ -61,7 +57,7 @@ Een stap naast het standbeen
 ==== Bijtrekpas ====
 
 Een stap opzij gevolgd door aansluitpas.
-
+Zie bijvoorbeeld [[https://youtu.be/IjW8R2u-yjE?si=HsoaJe0eZAmOtk4E&t=60|deze video]]
 ==== Wisselpas ====
 
 dubbele gewichtswisseling met aansluitpas
@@ -75,8 +71,7 @@ Bijvoorbeeld met Links te beginnen:
   * verplaats linkerbeen met gewicht
 
 Voorbeeld: de eerste pas van de an dro is een wisselpas naar links (met
-linkerbeen te beginnen). De tweede pas van de an dro is een wisselpas op
-de plaats (zonder verplaatsing) met rechterbeen te beginnen.
+linkerbeen te beginnen).
 
 ==== Galoppas ====
 
@@ -85,6 +80,7 @@ sprongetje, het aansluiten gebeurt nu in de lucht. De pas ontstaat
 meestel wanneer een bijtrekpas versneld wordt. Om de pas goed in te
 zetten moet men beginnen met een opvering op het afzetbeen.
 
+[[https://youtu.be/JkZB_6skqlE?si=kt0PGLOZLQAQKDE2|videovoorbeeld]]
 ==== Stap-hop pas ====
 
 Een stap op rechts, gevolgd door een hop op hetzelfde been, dan idem
@@ -128,9 +124,11 @@ Vroeger werd deze pas ook wel aangeduid als een polka-pas.
 
 ==== Mayim pas ====
 
-Wandel- of loopaas zijwaarts, waarbij de ene voet afwisselend voor of
+Wandel- of looppas zijwaarts, waarbij de ene voet afwisselend voor of
 achter de andere wordt langs kruisend wordt neergezet. Begint meestal
 met vóór kruisen.
+
+Zie bijvoorbeeld deze [[https://youtu.be/ptNBJWxs_nQ?si=2YegJPAdy3mWZVJJ&t=30|video uitleg]]
 
 Deze pas wordt in de USA meestal "grapevine" genoemd maar begint dan
 meestal met de zijwaartse pas.

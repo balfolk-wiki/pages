@@ -11,15 +11,14 @@
   * [[.groepsdansen:hanter-dro:hanter-dro-klamm|Hanter dro klamm]]
   * [[.groepsdansen:keff|Keff]]
   * [[.groepsdansen:kejaj|Kejaj]]
-  * [[.groepsdansen:laride|Laridé]]
-  * [[.groepsdansen:laride:laride-in-6|Laridé in 6]]
+  * [[.groepsdansen:ridees-en-larides:laride|Laridé]]
   * [[.groepsdansen:maraichine|Maraîchine]] (ook Poitou)
   * [[.groepsdansen:pach-pi|Pach pi]]
   * [[.groepsdansen:passepied-de-plaintel|Passepied de Plaintel]]
   * [[.groepsdansen:pile-menu|Pilé menu]]
   * [[.groepsdansen:plinn|Plinn]]
-  * [[.groepsdansen:ridee|Ridée]]
-  * [[.groepsdansen:ridee:ridee-de-josselin|Ridée de Josselin]]
+  * [[.groepsdansen:ridees-en-larides:ridee|Ridée]]
+  * [[.groepsdansen:ridees-en-larides:ridee-de-josselin|Ridée de Josselin]]
   * [[.groepsdansen:rond-de-landeda|Rond de Landeda]]
   * [[.groepsdansen:rond-de-loudeac|Rond de Loudéac]]
   * [[.groepsdansen:rond-de-loudeac:suite-de-loudeac|Suite de Loudeac]]
@@ -66,7 +65,7 @@
   * [[.groepsdansen:reel|Reel]]
   * [[.groepsdansen:rigaudon|Rigaudon]]
   * [[.groepsdansen:rond-d-argenton|Rond d’Argenton]] (Berry)
-  * [[.groepsdansen:ronde-du-quercy|Ronde du Quercy]]
+  * [[.groepsdansen:ronde-du-quercy|Ronde du Quercy]] (Quercy)
   * [[.groepsdansen:rondeau-en-chaine|Rondeau en chaîne]]
   * [[.groepsdansen:sbrando|Sbrando]]
   * [[.groepsdansen:set-carre|Set carré]]

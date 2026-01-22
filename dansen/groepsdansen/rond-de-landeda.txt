@@ -1,12 +1,37 @@
-======Rond de Landeda======
+======Rond de Landéda======
 
-Deze pagina moet nog gemaakt worden.
+De **rond de Landéda** is een cirkeldans uit de regio //Leon// in Bretagne.
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+Houd de handen (niet alleen de pinkjes) vast.
+
 ==== Basisstappen ====
+
+Herhaal het A-deel vier keer, en vervolgens het B-deel vier keer, en begin dan weer bij A.
+
+=== Deel A ===
+
+Het voetenwerk is (vrijwel) identiek aan de [[.:ridees-en-larides:ridee|ridée]]:
+
+  * **Tel 1**: zet de linkervoet een stap naar links
+  * **Tel 2**: sluit de rechtervoet dicht tegen de linkervoet aan
+  * **Tel 3**: zet de linkervoet nog een stap naar links
+  * **Tel 4**: bounce
+  * **Tel 5**: sluit de rechtervoet aan
+  * **Tel 6**: bounce
+
+Beweeg de handen op elke oneven tel naar boven, en op elke even tel weer naar beneden.
+
+=== Deel B ===
+
+Grotendeels zoals het A-deel, met de volgende verschillen:
+
+  * Op **tel 1** wordt een sprongetje naar links met de linkervoet gemaakt
+  * Op **tel 2** wordt een sprongetje met de rechtervoet kruiselings voorlangs de linkervoet gemaakt
+  * Op **tel 6** beweeg je je linker been iets naar boven achter je rechtervoet (dit wordt tevens de laatste keer van de vier maten A-deel gedaan, en //niet// de laatste keer van de vier maten B-deel: dus alleen wanneer de daaropvolgende maat een B-deel maat is).
 
 ===== Aanwijzingen =====
 
@@ -14,4 +39,8 @@ Deze pagina moet nog gemaakt worden.
 
 ===== Videovoorbeelden =====
 
+  * Rond de Landéda uitgevoerd door de Bretonse dansgroep Kenleur {{youtube>IM0me1O4PW0?}}
+
 ===== Externe Referenties =====
+
+  * [[https://www.brittanymusic-lessons.com/rond-de-landeda.php|Beschrijving van de rond de Landéda op de site Brittany Music]]

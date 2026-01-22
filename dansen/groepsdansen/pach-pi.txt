@@ -1,17 +1,59 @@
 ====== Pach pi ======
 
-Deze pagina moet nog gemaakt worden.
+De **pach pi** is een Bretonse dans. De naam komt af van een verbastering van het Franse woord //passepied//. De eerste helft van deze dans lijkt erg op de [[tour|tour]].
 
 ===== Basis =====
+
+De dansers staan in een cirkel met de pinkjes aan elkaar vast zoals bij de an dro.
 
 ==== Opstelling ====
 
 ==== Basisstappen ====
+
+=== A-deel ===
+
+Dit deel wordt vier keer herhaald. Dit komt grotendeels overeen met de [[tour|tour]], maar met de tweede helft van de dans (tel 5 t/m 8) en de eerste helft (tel 1 t/m 4) verwisseld.
+
+== Voeten ==
+
+De stappen met de voeten zijn:
+
+  * **Tel 1**: rechervoet kruiselings voorlangs de linkervoet
+  * **Tel 2**: beweeg de linkervoet een klein beetje naar links
+  * **Tel 3**: rechtervoet op de plaats (of een klein beetje verder naar links
+  * **Tel 4**: (lichte) bounce
+
+  * **Tel 5**: linkervoet naar links
+  * **Tel 6**: sluit de rechtervoet aan vlak bij de linkervoet
+  * **Tel 7**: linkervoet op de plaats (of een klein beetje verder naar links)
+  * **Tel 8**: (lichte) bounce
+
+== Armen ==
+
+  * **Tel 1 t/m 4**: Houd de ellebogen iets meer (maar niet helemaal) gestrekt en de handen iets verder naar voren, en geef op tel 1 en 3 een lichte puls naar beneden.
+  * **Tel 5 t/m 8**: Houd de ellebogen gebogen en de handen ongeveer op schouderhoogte, en geef ook hier op tel 5 en 7 een lichte puls naar beneden.
+
+=== B-deel ===
+
+Ook dit deel wordt vier keer herhaald.
+
+== Voeten ==
+
+  * **Tel 1 en 2** Rechtervoet naar voren, met de linkervoet in de lucht gekruist achter de rechtervoet.
+  * **Tel 3 en 4** Land de linkervoet op de (oorspronkelijke) plaats, eventueel met de rechtervoet nog op de grond.
+  * **Tel 5 en 6** Rechtervoet naar achteren, met de linkervoet in de lucht gekruist voor de rechtervoet.
+  * **Tel 7 en 8** Land de linkervoet op de (oorspronkelijke) plaats, eventueel met de rechtervoet nog op de grond.
+
+== Armen ==
+
+Probeer tijdens dit deel de armen zo min mogelijk te bewegen, en laat ze zo veel mogelijk in dezelfde positie.
 
 ===== Aanwijzingen =====
 
 ===== Variaties =====
 
 ===== Videovoorbeelden =====
+
+  * {{youtube>9enJxZPVlZk?}}
 
 ===== Externe Referenties =====

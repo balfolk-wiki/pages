@@ -1,17 +1,32 @@
 ======Pilé menu======
 
-Deze pagina moet nog gemaakt worden.
+De **pilé menu** is een cirkeldans in koppels uit de //pays vannetais// in Bretagne.
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+De dansers vormen een cirkel in paren van leiders en volgers. Hierbij houden de leiders hun handen op hun buik, en de volgers hun armen binnendoor de armen van de leiders, met de ellenbogen bij elkaar. De armen worden verder niet bewogen tijdens de dans.
+
 ==== Basisstappen ====
+
+  * **Tel 1**: kleine stap met de linkervoet naar links
+  * **...en...**: sluit aan met de rechtervoet
+  * **Tel 2**: zet de linkervoet op de plaats
+  * **Tel 3**: zet de rechtervoet op de plaats
+  * **...en...**: zet de linkervoet op de plaats
+  * **Tel 4**: zet de rechtervoet op de plaats
 
 ===== Aanwijzingen =====
 
 ===== Variaties =====
 
+De basispassen kunnen verder vereenvoudigd worden door enkel de stappen op tel 1 (linkervoet naar links) en tel 3 (sluit aan met rechtervoet) te zetten. Zo kan de pilé menu op een erg rustige manier gedanst worden.
+
 ===== Videovoorbeelden =====
 
+  * {{youtube>V8l30Z94Js4?}}
+
 ===== Externe Referenties =====
+
+  * [[https://www.brittanymusic-lessons.com/pile-menu.php|Pilé menu op Brittany Music]]

@@ -1,17 +1,37 @@
 ======Rond de Loudéac======
 
-Deze pagina moet nog gemaakt worden.
+Een erg energieke rondedans uit Bretagne.
+
+Zie ook: [[.:rond-de-loudeac:suite-de-loudeac|suite Loudéac]].
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+De dansers staan in een cirkel met de pinkjes aan elkaar vast zoals bij de [[an-dro|an dro]].
+
 ==== Basisstappen ====
+
+=== Voeten ===
+
+De stappen met de voeten zijn:
+
+  * **Tel 1**: linkervoet naar links
+  * **...en...**: sluit de rechtervoet aan vlak bij de linkervoet
+  * **Tel 2**: linkervoet op de plaats
+  * **Tel 3**: zet de rechtervoet een klein beetje naar voren
+  * **Tel 4**: bounce
+
+=== Armen ===
+
+Beweeg op tel 1 en 3 de armen iets naar boven, en op tel 2 en 4 weer terug naar beneden.
 
 ===== Aanwijzingen =====
 
 ===== Variaties =====
 
 ===== Videovoorbeelden =====
+
+  * Dansuitleg van de gehele suite: {{youtube>OXgCm5s-XdY?}}
 
 ===== Externe Referenties =====

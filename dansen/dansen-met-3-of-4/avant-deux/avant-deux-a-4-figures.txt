@@ -1,46 +1,64 @@
 ====== Avant-deux à 4 figures ======
 
-
 ===== Basis =====
 
 ==== Opstelling ====
-De dans wordt gedaan met twee koppels naast elkaar. Je staat in een vierkant met je partner tegenover je en je contra naast je. Wanneer je volger bent, zijn zowel je partner als je contra leiders, en vice versa. De figuren worden door de muzikanten omgeroepen, maar hebben wel een vaste volgorde.\\
-De avant-deux à 4 figures bestaat uit vier figuren van elk vier maten. Een cyclus beslaat dus 16 maten. \\
+
+De dans wordt gedaan met twee koppels naast elkaar. Je staat in een vierkant met je partner tegenover je en je contra naast je. Wanneer je volger bent, zijn zowel je partner als je contra leiders, en vice versa. De figuren worden vaak door de muzikanten omgeroepen (soms alleen aan het begin van de dans), maar hebben wel een vaste volgorde.
+
+De avant-deux à 4 figures bestaat uit vier figuren van elk vier maten. Een cyclus beslaat dus 16 maten.
+
 De eerste twee figuren worden steeds door slechts één van de koppels uitgevoerd. Onderwijl swingt of klapt het andere koppel mee. Wanneer de hele dans zich herhaalt is het andere koppel aan de beurt om figuur 1 en 2 te doen. Zo wisselen beide koppels elkaar af.
+
 ==== Basisstappen ====
-De basispas heeft het ritme 1-en-2, 3, 4 en gaat als volgt:\\
-  * Tel 1: stap op links, stap op rechts
-  * Tel 2: stap op links
-  * Tel 3: stap op rechts
-  * Tel 4: hop op rechts\\
-Deze pas komt veelvuldig in de dans voor.\\
-\\
-**Figuur 1: en avant-deux!**\\
+
+De basispas (zie ook de [[..:..:groepsdansen:maraichine|maraîchine]]) heeft het ritme 1-en-2, 3, 4 en gaat als volgt:
+
+  * **Tel 1**: Linkervoet
+  * **...en...**: Rechtervoet (voor uitleg over tel -ne- zie [[educatie:terminologie#off-beat|off-beat]])
+  * **Tel 2**: Linkervoet
+  * **Tel 3**: Rechtervoet
+  * **Tel 4**: Bounce
+
+Deze pas komt veelvuldig in de dans voor.
+
+=== Figuur 1: en avant-deux! ===
+
   * Maat 1: een basispas vooruit, richting je partner
   * Maat 2: een basispas achteruit
-  * Maat 3: een basispas vooruit
-  * Maat 4: een basispas achteruit\\
+  * Maat 3 en 4: herhaling van maat 1 en 2
 
-**Figuur 2: traversez!**
+=== Figuur 2: traversez! ===
+
 Hierbij wissel je van plek met je partner, en weer terug
+
   * Maat 1: een basispas vooruit, richting je partner, en draai een half rondje om elkaar heen
   * Maat 2: een basispas om op de beginpositie van je partner uit te komen
-  * Maat 3 en 4: herhaling van maat 1 en 2\\
+  * Maat 3 en 4: herhaling van maat 1 en 2
 
-**Figuur 3: balancez!**
-  * Maat 1-4: spinnen met je contra. Dit is in gewone danshouding, in een spinpas (rechtervoeten naast elkaar, iedere tel stap op rechts en trek bij met je linkervoet)
+=== Figuur 3: balancez! ===
 
-**Figuur 4: rassemblez!**
+  * Maat 1-4: draai met je contra op de plaats in klokrichting rond. dit doe je in gewone danshouding en qua passen in een ritme 1-en-2, 3-en-4.
+
+=== Figuur 4: rassemblez! ===
+
 Deze figuur doe je in open danshouding met je contra
+
   * Maat 1: met je contra samen basispas vooruit, richting jullie partners
   * Maat 2: met je contra samen basispas achteruit
-  * Maat 3 en 4: herhaling van maat 1 en 2\\
+  * Maat 3 en 4: herhaling van maat 1 en 2
 
 Hierna herhaalt de dans zich opnieuw, maar worden de eerste twee figuren door het andere koppel uitgevoerd.
+
 ===== Aanwijzingen =====
+
+  * De avant-deux begint vaak met een aankondiging //En avant-deux!// waarna de dans direct begint.
+  * Als dit helpt bij het vinden van extra stabiliteit (bijvoorbeeld omdat het bouncen op een been vermoeiend is) kan in plaats van de basispas ook in de andere delen een polkapas gedaan worden, dus met een linkervoet-stap tussen tel 3 en 4, en dan een rechterstap op tel 4. Misschien een beetje smokkelen, maar het kan de dans wel fijner maken!
 
 ===== Variaties =====
 
 ===== Videovoorbeelden =====
+
 {{youtube>esQ6cb2E6R4}}
+
 ===== Externe Referenties =====

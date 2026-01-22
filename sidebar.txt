@@ -2,21 +2,24 @@
 
   * [[algemeen:over-balfolk|Wat Is Balfolk?]]
   * [[algemeen:etiquette|Etiquette]]
-  * [[algemeen:terminologie|Terminologie]]
   * [[algemeen:danshouding|Danshouding]]
-  * [[algemeen:niveaus|Niveaus]]
   * [[algemeen:links|Links]]
 
 ----
 
 **[[dansen:|Dansen]]**
+
 {{simplenavi>dansen}}
 
 ----
 
-**[[didactiek|Didactiek]]**
+**[[educatie|Educatie]]**
 
-  * [[didactiek:introducties|Introducties Geven]]
+  * [[educatie:terminologie|Terminologie]]
+  * [[educatie:niveaus|Niveaus]]
+  * [[educatie:lessenreeksen|Lessenreeksen]]
+  * [[educatie:introducties|Introducties Geven]]
+
 
 
 ----

@@ -1,6 +1,8 @@
 ======Gavotte des montagnes======
 
-De **gavotte des montagnes** is een energieke dans in rijen gedanst uit Bretagne.
+De **gavotte des montagnes** is een energieke dans in rijen gedanst uit Bretagne. In Bretagne is dit de meestvoorkomende gavotte: staat er bij Bretonse muziek de aanduiding //gavotte// of //gavotenn//, dan is dit normaliter een gavotte des montagnes.
+
+Zie ook: [[.:gavotte-des-montagnes:suite-gavotte-des-montagnes|suite gavotte des montagnes]].
 
 ===== Basis =====
 
@@ -12,9 +14,17 @@ Met je lichaam sta je een beetje gedraaid richting de voorste in de rij, om goed
 
 ==== Basisstappen ====
 
-Wandel- of looppas in het ritme van de muziek: links - rechts - links rechts links - rechts - links - rechts - hop (of niets).
+Dit is de archetypische 3-4 gavotte (3-4 betekent hier de aanwezigheid van een tussenstap tussen de derde en vierde tel in). Zet bij elke stap naar links de linkervoet iets verder naar voren en links, en gebruik de stappen met de rechtervoet als aansluitstappen.
 
-Voor de mensen die wat tureluurs worden van al dat links en rechts: je kan het ook als volgt tellen: een, twee, ee - ne twee, een, twee, een (twee).
+  * **Tel 1** Links.
+  * **Tel 2** Rechts.
+  * **Tel 3** Links.
+  * **...en...** Rechts.
+  * **Tel 4** Links.
+  * **Tel 5** Rechts.
+  * **Tel 6** Links.
+  * **Tel 7** Rechts.
+  * **Tel 8** Bounce.
 
 Of gebruik dit als ezelsbruggetje: een, twee, in de maat, anders wordt de juffrouw “hop”.
 
@@ -24,6 +34,7 @@ Of gebruik dit als ezelsbruggetje: een, twee, in de maat, anders wordt de juffro
 
 ===== Videovoorbeelden =====
 
-{{youtube>ICEaGHf6a94|Gavotte des Montagnes op Youtube}}
+  * Dansuitleg van de gehele suite: {{youtube>uFoJPRgG_ko?}}
+  * {{youtube>ICEaGHf6a94|Gavotte des Montagnes op Youtube}}
 
 ===== Externe Referenties =====
