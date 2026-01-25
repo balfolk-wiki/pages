@@ -1,9 +1,9 @@
 **[[algemeen|Algemeen]]**
 
-  * [[algemeen:over-balfolk|Wat Is Balfolk?]]
-  * [[algemeen:etiquette|Etiquette]]
-  * [[algemeen:danshouding|Danshouding]]
-  * [[algemeen:links|Links]]
+{{simplenavi>algemeen:over-balfolk home}}
+{{simplenavi>algemeen:etiquette home}}
+{{simplenavi>algemeen:danshouding home}}
+{{simplenavi>algemeen:links home}}
 
 ----
 
@@ -15,12 +15,10 @@
 
 **[[educatie|Educatie]]**
 
-  * [[educatie:terminologie|Terminologie]]
-  * [[educatie:niveaus|Niveaus]]
-  * [[educatie:lessenreeksen|Lessenreeksen]]
-  * [[educatie:introducties|Introducties Geven]]
-
-
+{{simplenavi>educatie:terminologie home}}
+{{simplenavi>educatie:niveaus home}}
+{{simplenavi>educatie:lessenreeksen home}}
+{{simplenavi>educatie:introducties home}}
 
 ----
 
