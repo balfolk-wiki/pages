@@ -1,17 +1,58 @@
 ======Branle de la fosse aux loups======
 
-Deze pagina moet nog gemaakt worden.
+De **branle de la fosse aux loups** is een dans die eigenlijk alleen gedanst wordt op het gelijknamige nummer van de Bretonse groep //Tribal Jâze//.
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+Dansers staan in een kring en houden elkaars hand vast.
+
 ==== Basisstappen ====
+
+Herhaal steeds twee keer het A-deel, dan twee keer het B-deel, en zo rond.
+
+=== A-deel ===
+
+== Maat 1 ==
+
+  * **Tel 1**: Zet de linkervoet op de plaats
+  * **Tel 2**: Geef de rechtervoet een kleine schop (knie gebogen) naar voren
+  * **Tel 3**: Zet de rechtervoet op de plaats
+  * **Tel 4**: Geef de linkervoet een kleine schop (knie gebogen) naar voren
+
+== Maat 2 ==
+
+  * **Tel 1**: Zet de linkervoet naar links
+  * **Tel 2**: Kruis de rechtervoet voorlangs over de linkervoet
+  * **Tel 3**: Zet de linkervoet naar links
+  * **Tel 4**: Kruis de rechtervoet achterlangs over de linkervoet
+
+== Maat 3 ==
+
+  * **Tel 1**: Zet de linkervoet naar links
+  * **Tel 2**: Sluit de rechtervoet aan
+  * **Tel 3**: Zet de linkervoet naar links
+  * **Tel 4**: Geef de rechtervoet een kleine schop (knie gebogen) naar voren
+
+== Maat 4 ==
+
+  * **Tel 1**: Zet de rechtervoet naar rechts
+  * **Tel 2**: Sluit de linkervoet aan
+  * **Tel 3**: Zet de rechtervoet naar rechts
+  * **Tel 4**: Geef de linkervoet een kleine schop (knie gebogen) naar voren
+
+=== B deel ===
+
+Identiek aan het A-deel, behalve in maat 2: maak hier met vier passen een draai linksom.
 
 ===== Aanwijzingen =====
 
 ===== Variaties =====
 
 ===== Videovoorbeelden =====
+
+  * {{youtube>VODDkQDJ990?}}
+  * {{youtube>NdvFKuzmDRw?}}
 
 ===== Externe Referenties =====

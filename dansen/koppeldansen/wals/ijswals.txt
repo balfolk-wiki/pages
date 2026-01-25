@@ -1,12 +1,46 @@
 ====== IJswals ======
 
-Deze pagina moet nog gemaakt worden
+De **ijswals** is gemaakt door Anne Sanson-Catz rond 1925 op een melodie die in "Feuillet Recueil de danses" (1700) is opgenomen als “Le Passepied”. De dans is geïnspireerd op de bewegingen die je maakt tijdens het schaatsen.
 
 ===== Basis =====
 
 ==== Opstelling ====
-
+Koppels staan in een kring met het gezicht tegen de klok in. Leiders staan aan de binnenkant van de kring (links, een beetje achter de volger), volgers aan de buitenkant. De linkerhanden zijn vast, op ontspannen hoogte links van de leider (arm van volger gaat voor de leider langs). De rechterhanden zijn vast, rond de rechterschouder van de volger (arm van leider gaat achter de volger langs)
 ==== Basisstappen ====
+Gedurende de hele dans doe je steeds één stap per tel, dus 1-2-3 1-2-3 etc. Eén blokje van drie passen is een driepas. Vanwege het oneven aantal tellen van zo'n driepas, wisselt de voet waarbij je hem begint dus steeds af (rechts-links-rechts links-rechts-links etc.) 
+
+De basispas van de IJswals is een specifieke driepas, de zogenaamde kruispas, die zowel vooruit als achteruit gedanst wordt. Beide worden hier uitgelegd, waarbij voor de uitleg voor het gemak uitgegaan wordt van een start met de rechtervoet. Als je de kruispas met links start, doe je alles spiegelbeeldig.
+  * Kruispas vooruit
+    * **Tel 1**: Kruis je rechterbeen voor je linkerbeen langs en zet je rechtervoet links voor je linkervoet neer. Je draait op natuurlijke wijze met je bovenlichaan een beetje naar links.
+    * **Tel 2**: Stap met de bal van je linkervoet links van je rechtervoet. Het voelt hier natuurlijk om je bovenlijf weer terug te draaien.
+    * **Tel 3**: Stap met je rechtervoet naast je linkervoet.
+
+  * Kruispas achteruit
+    * **Tel 1**: Kruis je rechterbeen achter je linkerbeen langs en zet de bal van je rechtervoet links achter je linkervoet neer. Je draait op natuurlijke wijze met je bovenlichaan een beetje naar links.
+    * **Tel 2**: Stap met je linkervoet links van je rechtervoet. Het voelt hier natuurlijk om je bovenlijf weer terug te draaien.
+    * **Tel 3**: Stap met je rechtervoet naast je linkervoet.
+
+===A-deel===
+  * Vier kruispassen naar voren (dus in de kring tegen de klok in), startend met rechts
+  * Drie kruispassen naar achteren. De volger gebruikt de vierde kruispas om een kwartslag naar links te draaien terwijl hen onder de rechterarm van de leider door draait. De leider draait op dit moment een kwartslag naar rechts. Leiders staan nu tegenover de volgers, met hun rug naar het midden van de kring. Het koppel heeft nog steeds de handen vast, met de armen gekruist. Leiders plaatsen alvast hun gewicht op hun rechterbeen.
+  * Het koppel beweegt naar het midden van de kring: volger doet vier kruispassen naar voren, startend met rechts, terwijl leider vier kruispassen achteruit doet, startend met links
+  * Het koppel beweegt weer terug: volger doet drie kruispassen achteruit, leider doet drie kruispassen vooruit. De vierde kruispas wordt gebruikt om terug te draaien naar de beginpositie. De leiders plaatsen alvast hun gewicht op hun linkerbeen.
+
+===B-deel===
+  * Acht kruispassen vooruit, startend met rechts
+  * Kruispas met rechts, met accent op eerste tel; kruispas met links, met accent op eerste tel
+  * Met twee driepassen draait de volger linksom om de leider heen. Hierbij laat je de handen niet los; als gevolg gaan de armen boven je hoofd langs.
+  * Kruispas met rechts, met accent op eerste tel; kruispas met links, met accent op eerste tel
+  * Met twee driepassen draait de volger rechtsom om de leider heen en komt weer terug in de beginpositie. Ook hierbij houd je, net als op de 'heenweg', de handen vast. Zodra je op je plek teruggekeerd bent, laat je wel de handen los.
+
+===C-deel (2x)===
+  * In vier driepassen draait de volger (startend met rechtervoet) een eigen cirkeltje rechtsom en de leider (startend met linkervoet) een eigen cirkeltje linksom, tot ze tegenover elkaar staan. Beiden zetten zich lichtjes tegen elkaars handen af.
+  * In vier driepassen draaien beiden hun cirkeltje weer terug, tot ze tegenover elkaar staan.
+  * De leider houdt met rechterhand de linkerhand van de volger vast. Leider (startend met linkervoet) en volger (startend met rechtervoet) draaien een driepas van elkaar weg en een driepas weer naar elkaar toe. De armen zwaaien met de beweging mee en weer terug.
+  * In twee driepassen draaien volger rechtsom en leider linksom om hun eigen as
+  * In vier driepassen walsen op de kringlijn tegen de klok in.
+
+Hierna begint de hele dans opnieuw.
 
 ===== Aanwijzingen =====
 
@@ -14,4 +48,8 @@ Deze pagina moet nog gemaakt worden
 
 ===== Videovoorbeelden =====
 
+  * {{youtube>h23Ut22G_4I}}
+
 ===== Externe Referenties =====
+
+  * [[http://www.elschekorf.nl/pdf/OpGoedeVoet.pdf|Dansbeschrijving in Elsche Korf en Frans Tromp, pagina 51 e.v.]]

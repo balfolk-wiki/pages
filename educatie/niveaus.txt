@@ -1,7 +1,7 @@
 ===== Niveaus =====
 
-Voor Lessenreeksen en workshops gebruiken we op deze wiki een gestandaardiseerde "niveau" indeling.
-Wij hebben er hier voor gekozen om daarbij te werken met een, aangepaste vorm, van de niveauindeling die gebruikt wordt door Dansstage.
+Voor lessenreeksen en workshops gebruiken we op deze wiki een gestandaardiseerde "niveau" indeling.
+Wij hebben er hier voor gekozen om daarbij te werken met een aangepaste vorm van de niveauindeling die gebruikt wordt door Dansstage.
 
 Deze standaard is gebaseerd op welke vaardigheden in //praktijk// wordt onderwezen en vereist, //niet// wat binnen de community als "optimaal" wordt ervaren.
 
@@ -9,30 +9,28 @@ Het is belangrijk om bij niveaus het volgende op te merken:
 
 **Aanvulllingen:**
 
-Elke Docent, bepaald zelf diens curriculum.
-Wij omschrijven hier basis vaardigheden en dansen, maar hier bovenop zal elke docent nog zelf een selectie maken. Dit is niet goed, of fout, maar maatwerk, zowel naar de wensen groep als wensen van de docent.
+Elke docent bepaalt zelf diens curriculum.
+Wij omschrijven hier basisvaardigheden en -dansen, maar hier bovenop zal elke docent nog zelf een selectie maken. Dit is niet goed of fout, maar maatwerk, zowel naar de wensen van de groep als wensen van de docent.
 
 **Differentiatie:**
 
-Les niveaus staan niet in steen gegrift.
-Een les zal doorgaans onderdelen bevatten, die herhaling zijn van een lager niveau én onderdelen uit een iets hoger niveau voor mensen die dingen snel oppakken. Een les van niveau 2b, kan daardoor ook nog zeer nuttig zijn voor iemand met niveau 3. Terwijl een Les van niveau 1, waarschijnlijk te weinig uitdaging zal bevatten voor iemand van niveau 3.
+Lesniveaus staan niet in steen gegrift.
+Een les zal doorgaans onderdelen bevatten die een herhaling zijn van een lager niveau, én onderdelen uit een iets hoger niveau voor mensen die dingen snel oppakken. Een les van niveau 2b kan daardoor ook nog zeer nuttig zijn voor iemand met niveau 3, terwijl een les van niveau 1 waarschijnlijk te weinig uitdaging zal bevatten voor iemand van niveau 3.
 
 **How about workshops?**
 
 Deze niveaus geven handvaten om //algemeen// dansniveau en lesniveau te bepalen.
-Voor workshops en lessenseries in specifieke dansen, komen daar ook nog dans specifieke instroomeisen bij.
+Voor workshops en lessenseries in specifieke dansen, komen daar ook nog dansspecifieke instroomeisen bij.
 
 ==== Niveau-indeling ====
 
 Note:
-Uitstroom dansen en vaardigheden, zijn altijd cumulatief op de voorgaande niveaus.
+Uitstroom dansen en vaardigheden zijn altijd cumulatief op de voorgaande niveaus.
 
 Wat onder basis verstaan wordt, varieert per docent en per dans.
 Zie daarvoor de specifieke danspagina's en bespreek het met je docent.
 
-
 ----
-
 
 === Niveau 1 ===
 
@@ -40,19 +38,18 @@ Instroom niveau:
 Geen ervaring tot geen ervaring met gestructureerde lessen.
 
 Uitstroom dansen:
-  * Basis Scottish
-  * Andro
-  * Hanterdro
-  * Cercle/tovercirkel
-  * Basis jig
+  * Basis [[dansen:koppeldansen:scottish|scottish]]
+  * [[dansen:groepsdansen:an-dro|An dro]]
+  * [[dansen:groepsdansen:hanter-dro|Hanter dro]]
+  * [[dansen:mixers:cercle-circassien-tovercirkel|Cercle circassien (tovercirkel)]]
+  * Basis [[dansen:mixers:chapelloise-jig-gigue|chapelloise (jig, gigue)]]
 
 Uitstroom dansvaardigheden:
   * Basis in leiden/volgen
   * Basis half-open dansframe
-  * Basis van draaien bij Scottish en Jig
+  * Basis van draaien bij scottish en chapelloise
   * Consent en solide begin in floorcraft
   * Reflectie op de eigen beweging
-
 
 ----
 
@@ -63,17 +60,16 @@ Uitstroom Niveau 1
 
 Uitstroom dansen:
   * Scottish met complexere variaties
-  * Jig met minder gebruikelijke variaties
-  * Basis Wals in 3
-  * Basis Mazurka
-  * Basis Bourrée du Berry
-  * Gavotte de Grenoble
-
+  * Chapelloise met minder gebruikelijke variaties
+  * Basis [[dansen:koppeldansen:wals|wals in 3]]
+  * Basis [[dansen:koppeldansen:mazurka|mazurka]]
+  * Basis [[dansen:bourrees:bourree-du-berry|bourrée du Berry]]
+  * [[dansen:gavottes:gavotte-de-grenoble|Gavotte de Grenoble]]
 
 Uitstroom dansvaardigheden:
   * Meer aandacht voor dansen "kleiner" dansen
   * Begrip in overlap van variaties bij koppeldansen
-  * Basis muziekbegrip: Onderscheid Mazurka van Wals
+  * Basis muziekbegrip: onderscheid mazurka van wals
   * Verdieping van frame en communicatie
   * Reflectie op effect van eigen handelen in partnerdans
 
@@ -86,15 +82,15 @@ Instroom niveau:
 Uitstroom Niveau 2a
 
 Uitstroom dansen:
-  * wals in 5
-  * wals in 8
+  * [[dansen:koppeldansen:wals:wals-in-5|Wals in 5]]
+  * [[dansen:koppeldansen:wals:wals-in-8-11-enz|Wals in 8]]
 
 Uitstroom dansvaardigheden:
-  * (overgaan naar) Gesloten danshouding
+  * (Overgaan naar) gesloten danshouding
   * Consent bij dansen in gesloten danshouding
-  * (overgaan naar) Open danshouding
-  * Rolwisselingen tussen Leiden en Volgen
-  * Samen-Leiden
+  * (Overgaan naar) open danshouding
+  * Rolwisselingen tussen leiden en volgen
+  * Samen leiden
   * Reflectie op eigen effect binnen groepsdansen en andere danskoppels
 
 
@@ -115,12 +111,12 @@ Niveau 3 lessen en workshops verdiepen zich vaak in bepaalde thema's, regionale 
 //Op dit niveau moet je alles kunnen (leren) dansen incl:// </del>
 
 Dansen:
-  * [[dansen:groepsdansen:|Branle Bearnais]]
+  * [[dansen:groepsdansen:branle-bearnais|Branle Béarnais]]
   * [[dansen:koppeldansen:polska|Polska]]
   * [[dansen:solodansen:fandango|Fandango]]
 
 
- Dansvaardigheden:
+Dansvaardigheden:
   * Muzikaliteit
   * Verdieping connectie
   * Biomechanica

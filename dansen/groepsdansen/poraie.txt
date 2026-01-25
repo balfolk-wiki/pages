@@ -1,16 +1,59 @@
 ====== Poraïe ======
-Deze pagina moet nog gemaakt worden.
+
+De **poraïe** is een feestdans in cirkels uit de Poitou. Meestal op dezelfde muziek, //La poraïe au mardi gras//, gedanst, o.a. uitgevoerd door Ciac Boum.
 
 ===== Basis =====
 
 ==== Opstelling ====
 
+De dansers staan in een kring met de handen vast.
+
 ==== Basisstappen ====
+
+=== Deel A ===
+
+(3x 8 tellen)
+
+  * **Oneven tellen** Stap naar links, armen naar boven
+  * **Even tellen** Sluit aan met rechts, armen terug naar beneden
+
+=== Deel B ===
+
+(2x 8 tellen)
+
+  * **Oneven tellen** Linkervoet op de plaats, naar achteren gebogen, lichte schop met rechts naar voren, armen naar boven
+  * **Even tellen** Rechtervoet op de plaats, naar voren gebogen, lichte schop met links naar achteren, armen terug naar beneden
 
 ===== Aanwijzingen =====
 
+De tekst van het gebruikelijke liedje is de volgende, en gaat over iemand die allerlei dingen van hun vriend (en uiteindelijk die vriend zelf) kwijtraakt:
+
+//J'ai perdu l'autre soir ici \\
+Le *chapel* de mon ami. x2 \\ \\
+Ne l'auriez vous point trouvaïe \\
+tout en pilant la poraïe? \\ \\
+Pilons li et pilons là \\
+La Poraïe au mardi gras x2//
+
+Chapel wordt hier vervangen door andere woorden, bijv. //chulotte//, //soulier//, //calzar//. Er zijn hier oneindig veel coupletten mogelijk. In het allerlaatste couplet is de tekst: //J'ai pe-perdu le mon ami//.
+
 ===== Variaties =====
 
+De tekst kan ook in het Nederlands:
+
+//Gister ben ik kwijtgeraakt \\
+Het *horloge* van mijn maat x2 \\ \\
+
+'k Zoek me suf mijn lieve vrinden \\
+Help me toch het terug te vinden \\ \\
+
+Kijk eens hier en kijk eens daar \\
+Anders ben ik de sigaar x2//
+
+Coupletsuggesties: sandalen, juwelen, sombrero, konijnen, bikini, jenever, kanarie, diploma, ...
+
 ===== Videovoorbeelden =====
+
+  * {{youtube>2JQbu9l03hI?}}
 
 ===== Externe Referenties =====

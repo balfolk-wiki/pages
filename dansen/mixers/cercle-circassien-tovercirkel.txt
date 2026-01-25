@@ -1,4 +1,4 @@
-====== Cercle circassien (Tovercirkel) ======
+====== Cercle circassien (tovercirkel) ======
 
 De **cercle circassien**, in Nederland en Vlaanderen ook wel **tovercirkel** genoemd, en soms simpelweg **cercle** is een vrolijke mixer. In tegenstelling tot wat de naam suggereert heeft de dans niets met de regio Tsjerkessie (in de Kaukasus) te maken.
 
@@ -16,15 +16,17 @@ De dans kan zowel op muziek in 4/4 maat als op muziek in 6/8 maat gedanst worden
 
   * 4 Stappen naar voren (cirkel wordt kleiner), 4 stappen naar achteren (cirkel wordt groter)
   * Herhaal 4 stappen naar voren, 4 stappen naar achteren. Laat elkaar los.
-  * Volgers doen 4 stappen naar voren, draaien halfom om linkerschouder en lopen weer terug; ondertussen klappen de leiders mee.
+  * Volgers doen 4 stappen naar voren, 4 stappen naar achteren.
   * Leiders doen 4 stappen naar voren; draaien halfom om linkerschouder en lopen in 4 stappen schuin vooruit naar hun nieuwe partner (let op, dit is de persoon die aan het begin links van de leider stond).
 
 === B-deel ===
 
-  * Pak je partner vast in standaard danshouding en zet de buitenkant van je rechtervoeten tegen elkaar aan. Spin 16 tellen in klokrichting. Klap aan het einde uit in open danshouding, met het gezicht tegen klokrichting. De volger staat daarbij rechts van de leider.
+  * Pak je partner vast in standaard danshouding, maar met de buitenkant van je rechtervoeten tegen elkaar aan. Spin 16 tellen in klokrichting. Klap aan het einde uit in open danshouding, met het gezicht tegen klokrichting. De volger staat daarbij rechts van de leider.
   * Promenade: loop 16 tellen als paar tegen de klok in, rustig op de cirkel, en eindig met het gezicht naar het midden van de kring. Houd de handen vast. De dans begint dan weer opnieuw.
 
 ===== Aanwijzingen =====
+
+  * De tovercirkel is meestal -- niet altijd -- in een 6/8 maat, waarbij er twee 'tellen' per maat zijn. Bij het spinnen worden de rechtervoeten gezet op deze tellen (dus op tel 1 en 4 van de maat), en het 'steppen' met de linkervoeten vindt net iets na het punt halverwege (dus op tel 3 en 6 van de maat) plaats.
 
 ===== Variaties =====
 
@@ -32,10 +34,10 @@ De dans kan zowel op muziek in 4/4 maat als op muziek in 6/8 maat gedanst worden
     * High five
     * Ruilen van plek met een ander
     * Springen met de borst tegen elkaar aan
-
+    * Vaak draaien volgers zich ook om in het stuk dat zij naar binnen en buiten lopen.
   * **Bij het spinnen**
-    * In Nederland en Vlaanderen: met de rechterhand op de rechterschouder van de partner en de linkerhanden stevig in elkaar daaronder; zet de rechtervoeten met de buitenkant tegen elkaar als draaicentrum.
-    * In Wallonië en Frankrijk: standaard danshouding met de rechtervoeten aan de buitenkant tegen elkaar; 'step' met de linkervoet. Aan het eind van het spinnen is het dan makkelijk te openen en bij de promenade in open danshouding rond te wandelen.
+    * Deze vorm is vooral bekend van de uitleg van Castlefest, maar kwam vroeger vaker voor bij Balfolk in Nederland: met de rechterhand op de rechterschouder van de partner en de linkerhanden stevig in elkaar daaronder; zet de rechtervoeten met de buitenkant tegen elkaar als draaicentrum.
+    * Een variant op de vorm hierboven, die uitgelegd wordt bij de workshops van Dansknusjes: beide partners met de rechterhand op de rug van de andere partner en dan de linkerhanden onderlangs vasthouden; ook nu weer de rechtervoeten met de buitenkant tegen elkaar als draaicentrum.
   * **Bij de promenade**
     * De rechterarm van de leider loopt achter de volger langs en beide rechterhanden houden elkaar vast ter hoogte van de rechterschouder van de volger, terwijl ook de linkerhanden elkaar vasthouden. De rechterhanden hoog (volger houdt rekening met de armlengte van de leider), linkerhanden op heuphoogte.
 

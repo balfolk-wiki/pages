@@ -1,17 +1,32 @@
 ====== Ronde de Chantecorps ======
 
-Deze pagina moet nog gemaakt worden.
+Volgens [[https://folkdancemusings.blogspot.com/2022/06/ronde-de-chantecorps-france.html|deze]] pagina is de **ronde de Chantecorps** een moderne balfolkdans, gemaakt door Christian Pacher op een melodie die de muzikanten componeerden toen ze in Chantecorps waren. Geen idee of dit klopt.
 
 ===== Basis =====
 
 ==== Opstelling ====
-
+Niet te grote kring, handen vast, armen ontspannen naar beneden.
 ==== Basisstappen ====
+De dans bestaat uit een A-deel in 4/4 maat en een B-deel in 5/4 maat.
 
+===A-deel===
+  * **Tel 1-4**: Stap met linkervoet opzij, sluit met rechtervoet aan naast linkervoet, stap met linkervoet opzij, doe een klein hopje op je linkerbeen. Ondertussen zwaaien de armen -bij elke stap die je opzij zet- energiek naar voren en weer terug.
+  * **Tel 5-8**: Zelfde als tel 1-4, maar dan spiegelbeeldig
+  * **Tel 9-12**: Zelfde als tel 1-4, maar zet na het hopje gauw je gewicht op de rechtervoet.
+  * **Tel 13-20**: acht [[educatie:terminologie#galoppas|galoppassen]] naar links. Ook hier zwaai je, bij elke stap opzij, de armen energiek naar voren en weer terug.
+
+===B-deel===
+In deze figuur zijn de armen gebogen, met de handen ongeveer op schouderhoogte.
+  * **Tel 1**: Stap op linkervoet
+  * **Tel 2**: Val op je rechtervoet voorwaarts (richting midden van de kring), geef daarbij een accent met de armen
+  * **Tel 3**: Stap terug op je linkervoet
+  * **Tel 4-en-5**: Rechts-links-rechts achterwaarts
+  * Tellen 1-5 worden hierna nog drie keer gedaan (dus in totaal vier keer)
+  * Vervolgens worden tellen 1-5 nogmaals vier keer gedaan, maar deze keer beweegt de hele kring rond in klokrichting.
 ===== Aanwijzingen =====
 
 ===== Variaties =====
 
 ===== Videovoorbeelden =====
-
+"https://geo.dailymotion.com/player.html?video=x9hkd7w"
 ===== Externe Referenties =====

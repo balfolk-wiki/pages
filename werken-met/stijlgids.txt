@@ -2,30 +2,54 @@
 
 Op deze pagina kun je informatie vinden over de voorkeursstijl bij het aanmaken of wijzigen van pagina's op de Wiki.
 
-==== Hoofdletters in dansnamen =====
-
-We schrijven in het algemeen dansnamen //in kleine letters//. Dit geldt zelfs voor het eerste woord van een dansnaam. Voorbeeld: de [b]an dro[/b], de [b]hanter dro[/b]. Namen die naar locaties of andere eigennamen verwijzen worden wel in hoofdletters geschreven. Voorbeeld: de [b]avant-deux à Coutant[/b], de [b]rond du Saint-Vincent[/b].
-
-==== Variaties in dansnamen ====
+==== Introductietekst (en dansnamen in introductietekst) ====
 
 We verwijzen in de introductiepagina in de eerste zin altijd terug naar de dansnaam die de eerste keer vetgedrukt wordt. In dezelfde inleiding worden alternatieve namen voor de dans, ook vetgedrukt, ook gegeven. Voorbeeld van de pagina [[dansen:gavottes:kost-ar-c-hoad|kost ar c’hoad]]:
 
 //De **kost ar c’hoad** (van de naam zijn vele spellingsvarianten in de omloop, o.a. **kost er c’hoed**, **kost er c’hoat** en **kost er hœt**) is een reidans, specifiek een 4-5 gavotte, uit Bretagne.//
 
+Geef in de introductietekst ook een korte uitleg over de herkomst (regionaal of anderszins) van de dans, en een korte omschrijving van het karakter van de dans.
+
+==== Hoofdletters in dansnamen =====
+
+We schrijven in het algemeen dansnamen //in kleine letters//. Dit geldt zelfs voor het eerste woord van een dansnaam. Voorbeeld: de **an dro**, de **hanter dro**. Namen die naar locaties of andere eigennamen verwijzen worden wel in hoofdletters geschreven. Voorbeeld: de **avant-deux à Coutant**, de **rond du Saint-Vincent**.
+
 ==== Ritmische notatie van dansen ====
 
-Het is vooral belangrijk dat niet alleen de pasjes zelf, maar ook het ritme worden genoteerd. Als voorbeeld van hoe het niet moet: stel je een beschrijving van de [[dansen:gavottes:gavotte-des-montagnes|gavotte des montagnes]] voor die beschrijft, //de pasjes van de gavotte des montagnes zijn links-rechts-links-rechts-links-rechts-links-rechts//. Hier blijkt de ritmiek van de dans ook niet. Kijk dus ook uit dat bijv. de stappen van een polka niet zonder meer als //1, 2, 3// beschreven worden, maar dat er nog een vierde tel (hetzij 1-2-3-4, hetzij 1-en-2-en) bijhoort.
+Het is vooral belangrijk dat niet alleen de pasjes zelf, maar ook het ritme worden genoteerd. Als voorbeeld van hoe het niet moet: stel je een beschrijving van de [[dansen:gavottes:gavotte-des-montagnes|gavotte des montagnes]] voor die beschrijft: //de pasjes van de gavotte des montagnes zijn links-rechts-links-rechts-links-rechts-links-rechts//. Uit deze omschrijving wordt de daadwerkelijke ritmiek van de dans niet duidelijk. Kijk dus ook uit dat bijv. de stappen van een polka niet zonder meer als //1, 2, 3// beschreven worden, maar dat er nog een vierde tel (hetzij 1-2-3-4, hetzij 1-en-2-en) bijhoort.
 
 Een vorm van notatie (niet noodzakelijkerwijs de enige juiste) die gebruikt wordt voor nieuwe pagina's, met de gavotte des montagnes als voorbeeld, is de volgende:
 
-  * Tel 1: Links
-  * Tel 2: Rechts
-  * Tel 3: Links
-  * ...en...: Rechts
-  * Tel 4: Links
-  * Tel 5: Rechts
-  * Tel 6: Links
-  * Tel 7: Rechts
-  * Tel 8: Bounce
+  * **Tel 1**: Links
+  * **Tel 2**: Rechts
+  * **Tel 3**: Links
+  * **...en...**: Rechts
+  * **Tel 4**: Links
+  * **Tel 5**: Rechts
+  * **Tel 6**: Links
+  * **Tel 7**: Rechts
+  * **Tel 8**: Bounce
 
 (Uiteraard gaat dit voorbeeld voorbij aan hoe de pasjes precies gezet moeten worden.)
+
+Gebruik vetgedrukt voor de tellen.
+
+Als een dans is onderverdeeld in meerdere delen (zoals bijvoorbeeld de tovercirkel), gebruik dan een level 3 heading, dus:
+
+=== Deel A ===
+
+=== Deel B ===
+
+==== Dansen die varianten zijn van andere dansen ====
+
+Noteer deze onder het kopje //variaties//, als volgt (voorbeeld, vanaf de pagina [[dansen:groepsdansen:hanter-dro|hanter dro]]):
+
+  * Zie ook: [[dansen:groepsdansen:hanter-dro:hanter-dro-klamm|hanter dro klamm]]
+
+==== Links ====
+
+Gebruik in het algemeen alleen een link (naar bijv. een andere danspagina, of een algemene pagina) bij het //eerste// noemen van de dans op de pagina.
+
+==== Terminologie ====
+
+Wees ietwat terughoudend in het gebruik van obscure danstermen. Meer basistermen zoals driepas, sluitpas, dansrichting mogen wel bekend verondersteld worden.
